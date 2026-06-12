@@ -44,19 +44,24 @@ function App() {
   const results = useMemo(() => {
     if (!normalizedQuery || normalizedQuery.length < 2) return { born: [], affiliated: [], totalCount: 0, displayCity: query };
 
-    const born = laureates.filter(l => l.birthCity && normalizeCity(l.birthCity) === normalizedQuery);
+    // Use includes() for a more flexible search
+    const born = laureates.filter(l => 
+      l.birthCity && normalizeCity(l.birthCity).includes(normalizedQuery)
+    );
     const affiliated = laureates.filter(l => 
-      l.affiliationCities.some(city => normalizeCity(city) === normalizedQuery)
+      l.affiliationCities.some(city => normalizeCity(city).includes(normalizedQuery))
     );
 
     // Combine and unique by ID
     const allUniqueIds = new Set([...born.map(l => l.id), ...affiliated.map(l => l.id)]);
+    const uniqueResults = Array.from(allUniqueIds).map(id => laureates.find(l => l.id === id)!);
     
     return {
       born,
       affiliated,
+      uniqueResults,
       totalCount: allUniqueIds.size,
-      displayCity: query // Keep original casing for display
+      displayCity: query
     };
   }, [normalizedQuery, query]);
 
@@ -65,6 +70,9 @@ function App() {
       <header>
         <h1>Find your Nobel Laureate</h1>
         <p>Discover science laureates born in or affiliated with your city.</p>
+        <p style={{ fontSize: '0.8rem', color: '#666' }}>
+          Searching across {laureates.length} science laureates.
+        </p>
         <div className="search-box">
           <input
             type="text"
@@ -88,8 +96,7 @@ function App() {
         )}
 
         <div className="laureate-list">
-          {/* We show the union of both lists */}
-          {Array.from(new Set([...results.born, ...results.affiliated])).map((l) => (
+          {results.uniqueResults?.map((l) => (
             <div key={`${l.id}-${l.category}`} className="laureate-card">
               <h3>{l.fullName}</h3>
               <div className="meta">
