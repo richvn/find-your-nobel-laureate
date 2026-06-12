@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+find-your-nobel-laureate/data/node_modules/
+find-your-nobel-laureate/client/node_modules/
+find-your-nobel-laureate/client/dist/
