@@ -88,9 +88,10 @@ function App() {
         {normalizedQuery.length >= 2 && (
           <div className="results-summary">
             <p>
-              <strong>{results.totalCount}</strong> {results.totalCount === 1 ? 'person has' : 'people have'} won a science Nobel.{' '}
-              <strong>{results.born.length}</strong> {results.born.length === 1 ? 'was' : 'were'} born in {results.displayCity}, and{' '}
-              <strong>{results.affiliated.length}</strong> {results.affiliated.length === 1 ? 'was' : 'were'} affiliated with an institution in {results.displayCity} at the time of their award.
+              <strong>{results.totalCount}</strong> {results.totalCount === 1 ? 'person associated' : 'people associated'} with <strong>{results.displayCity}</strong> {results.totalCount === 1 ? 'has' : 'have'} won a Nobel prize in science.
+            </p>
+            <p style={{ fontSize: '0.9rem', marginTop: '0.5rem', opacity: 0.8 }}>
+              {results.born.length} were born there, and {results.affiliated.length} were affiliated with an institution there at the time of their award.
             </p>
           </div>
         )}
