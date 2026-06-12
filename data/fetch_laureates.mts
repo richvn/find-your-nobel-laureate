@@ -28,8 +28,18 @@ const cityMap: { [key: string]: string } = {
 
 function normalizeCity(city: string | undefined): string | null {
     if (!city) return null;
-    const lower = city.toLowerCase().trim();
-    return cityMap[lower] || lower;
+    // Lowercase, trim, and take only the part before the first comma
+    let normalized = city.toLowerCase().trim().split(',')[0].trim();
+    
+    // Manual mapping for common aliases
+    if (cityMap[normalized]) {
+        normalized = cityMap[normalized];
+    }
+    
+    // Remove diacritics (optional but helpful for names like jhang maghiāna)
+    normalized = normalized.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    
+    return normalized;
 }
 
 async function fetchLaureates() {

@@ -22,8 +22,18 @@ const cityMap: { [key: string]: string } = {
 };
 
 function normalizeCity(city: string): string {
-  const lower = city.toLowerCase().trim();
-  return cityMap[lower] || lower;
+  // Lowercase, trim, and take only the part before the first comma
+  let normalized = city.toLowerCase().trim().split(',')[0].trim();
+  
+  // Manual mapping for common aliases
+  if (cityMap[normalized]) {
+    normalized = cityMap[normalized];
+  }
+  
+  // Remove diacritics
+  normalized = normalized.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  
+  return normalized;
 }
 
 function App() {

@@ -37,7 +37,7 @@
     "fullName": "Abdus Salam",
     "category": "Physics",
     "year": "1979",
-    "birthCity": "jhang maghiāna",
+    "birthCity": "jhang maghiana",
     "affiliationCities": [
       "trieste",
       "london"
@@ -60,10 +60,10 @@
     "fullName": "Adam G. Riess",
     "category": "Physics",
     "year": "2011",
-    "birthCity": "washington, d.c.",
+    "birthCity": "washington",
     "affiliationCities": [
-      "baltimore, md",
-      "baltimore, md"
+      "baltimore",
+      "baltimore"
     ],
     "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"
   },
@@ -97,7 +97,7 @@
     "year": "1928",
     "birthCity": "berlin",
     "affiliationCities": [
-      "göttingen"
+      "gottingen"
     ],
     "motivation": "for the services rendered through his research into the constitution of the sterols and their connection with the vitamins"
   },
@@ -108,7 +108,7 @@
     "year": "1999",
     "birthCity": "damanhur",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for his studies of the transition states of chemical reactions using femtosecond spectroscopy"
   },
@@ -152,9 +152,9 @@
     "fullName": "Alan Heeger",
     "category": "Chemistry",
     "year": "2000",
-    "birthCity": "sioux city, ia",
+    "birthCity": "sioux city",
     "affiliationCities": [
-      "santa barbara, ca"
+      "santa barbara"
     ],
     "motivation": "for the discovery and development of conductive polymers"
   },
@@ -176,7 +176,7 @@
     "year": "2000",
     "birthCity": "masterton",
     "affiliationCities": [
-      "philadelphia, pa"
+      "philadelphia"
     ],
     "motivation": "for the discovery and development of conductive polymers"
   },
@@ -187,7 +187,7 @@
     "year": "1907",
     "birthCity": "strelno",
     "affiliationCities": [
-      "chicago, il"
+      "chicago"
     ],
     "motivation": "for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid"
   },
@@ -265,7 +265,7 @@
     "year": "2023",
     "birthCity": "leningrad",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for the discovery and synthesis of quantum dots"
   },
@@ -276,7 +276,7 @@
     "year": "2003",
     "birthCity": "moscow",
     "affiliationCities": [
-      "argonne, il"
+      "argonne"
     ],
     "motivation": "for pioneering contributions to the theory of superconductors and superfluids"
   },
@@ -285,9 +285,9 @@
     "fullName": "Alexis Carrel",
     "category": "Physiology or Medicine",
     "year": "1912",
-    "birthCity": "sainte-foy-lès-lyon",
+    "birthCity": "sainte-foy-les-lyon",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "in recognition of his work on vascular suture and the transplantation of blood vessels and organs"
   },
@@ -296,9 +296,9 @@
     "fullName": "Alfred D. Hershey",
     "category": "Physiology or Medicine",
     "year": "1969",
-    "birthCity": "owosso, mi",
+    "birthCity": "owosso",
     "affiliationCities": [
-      "long island, new york, ny"
+      "long island"
     ],
     "motivation": "for their discoveries concerning the replication mechanism and the genetic structure of viruses"
   },
@@ -307,9 +307,9 @@
     "fullName": "Alfred G. Gilman",
     "category": "Physiology or Medicine",
     "year": "1994",
-    "birthCity": "new haven, ct",
+    "birthCity": "new haven",
     "affiliationCities": [
-      "dallas, tx"
+      "dallas"
     ],
     "motivation": "for their discovery of G-proteins and the role of these proteins in signal transduction in cells"
   },
@@ -342,7 +342,7 @@
     "year": "1979",
     "birthCity": "johannesburg",
     "affiliationCities": [
-      "medford, ma"
+      "medford"
     ],
     "motivation": "for the development of computer assisted tomography"
   },
@@ -375,7 +375,7 @@
     "year": "1956",
     "birthCity": "paris",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discoveries concerning heart catheterization and pathological changes in the circulatory system"
   },
@@ -395,7 +395,7 @@
     "fullName": "André Lwoff",
     "category": "Physiology or Medicine",
     "year": "1965",
-    "birthCity": "ainay-le-château",
+    "birthCity": "ainay-le-chateau",
     "affiliationCities": [
       "paris"
     ],
@@ -406,9 +406,9 @@
     "fullName": "Andrea Ghez",
     "category": "Physics",
     "year": "2020",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "los angeles, ca"
+      "los angeles"
     ],
     "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy"
   },
@@ -430,7 +430,7 @@
     "year": "1977",
     "birthCity": "wilno",
     "affiliationCities": [
-      "new orleans, la"
+      "new orleans"
     ],
     "motivation": "for their discoveries concerning the peptide hormone production of the brain"
   },
@@ -439,9 +439,9 @@
     "fullName": "Andrew Z. Fire",
     "category": "Physiology or Medicine",
     "year": "2006",
-    "birthCity": "stanford, ca",
+    "birthCity": "stanford",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA"
   },
@@ -463,7 +463,7 @@
     "year": "2003",
     "birthCity": "london",
     "affiliationCities": [
-      "urbana, il"
+      "urbana"
     ],
     "motivation": "for pioneering contributions to the theory of superconductors and superfluids"
   },
@@ -519,7 +519,7 @@
     "year": "2021",
     "birthCity": "beirut",
     "affiliationCities": [
-      "la jolla, ca"
+      "la jolla"
     ],
     "motivation": "for their discoveries of receptors for temperature and touch"
   },
@@ -530,7 +530,7 @@
     "year": "2013",
     "birthCity": "kibbutz sde-nahum",
     "affiliationCities": [
-      "los angeles, ca"
+      "los angeles"
     ],
     "motivation": "for the development of multiscale models for complex chemical systems"
   },
@@ -552,7 +552,7 @@
     "year": "1978",
     "birthCity": "munich",
     "affiliationCities": [
-      "holmdel, nj"
+      "holmdel"
     ],
     "motivation": "for their discovery of cosmic microwave background radiation"
   },
@@ -561,9 +561,9 @@
     "fullName": "Arthur Ashkin",
     "category": "Physics",
     "year": "2018",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "holmdel, nj"
+      "holmdel"
     ],
     "motivation": "for the optical tweezers and their application to biological systems"
   },
@@ -572,7 +572,7 @@
     "fullName": "Arthur B. McDonald",
     "category": "Physics",
     "year": "2015",
-    "birthCity": "sydney, nova scotia",
+    "birthCity": "sydney",
     "affiliationCities": [
       "kingston"
     ],
@@ -583,9 +583,9 @@
     "fullName": "Arthur H. Compton",
     "category": "Physics",
     "year": "1927",
-    "birthCity": "wooster, oh",
+    "birthCity": "wooster",
     "affiliationCities": [
-      "chicago, il"
+      "chicago"
     ],
     "motivation": "for his discovery of the effect named after him"
   },
@@ -605,9 +605,9 @@
     "fullName": "Arthur Kornberg",
     "category": "Physiology or Medicine",
     "year": "1959",
-    "birthCity": "brooklyn, ny",
+    "birthCity": "brooklyn",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid"
   },
@@ -616,9 +616,9 @@
     "fullName": "Arthur L. Schawlow",
     "category": "Physics",
     "year": "1981",
-    "birthCity": "mount vernon, ny",
+    "birthCity": "mount vernon",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for their contribution to the development of laser spectroscopy"
   },
@@ -649,7 +649,7 @@
     "fullName": "August Krogh",
     "category": "Physiology or Medicine",
     "year": "1920",
-    "birthCity": "grenå",
+    "birthCity": "grena",
     "affiliationCities": [
       "copenhagen"
     ],
@@ -673,7 +673,7 @@
     "year": "2015",
     "birthCity": "savur",
     "affiliationCities": [
-      "chapel hill, nc"
+      "chapel hill"
     ],
     "motivation": "for mechanistic studies of DNA repair"
   },
@@ -682,9 +682,9 @@
     "fullName": "Barbara McClintock",
     "category": "Physiology or Medicine",
     "year": "1983",
-    "birthCity": "hartford, ct",
+    "birthCity": "hartford",
     "affiliationCities": [
-      "cold spring harbor, ny"
+      "cold spring harbor"
     ],
     "motivation": "for her discovery of mobile genetic elements"
   },
@@ -693,9 +693,9 @@
     "fullName": "Barry C. Barish",
     "category": "Physics",
     "year": "2017",
-    "birthCity": "omaha, ne",
+    "birthCity": "omaha",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
   },
@@ -716,9 +716,9 @@
     "fullName": "Baruch S. Blumberg",
     "category": "Physiology or Medicine",
     "year": "1976",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "philadelphia, pa"
+      "philadelphia"
     ],
     "motivation": "for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases"
   },
@@ -729,7 +729,7 @@
     "year": "1980",
     "birthCity": "caracas",
     "affiliationCities": [
-      "boston, ma"
+      "boston"
     ],
     "motivation": "for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions"
   },
@@ -738,7 +738,7 @@
     "fullName": "Ben R. Mottelson",
     "category": "Physics",
     "year": "1975",
-    "birthCity": "chicago, il",
+    "birthCity": "chicago",
     "affiliationCities": [
       "copenhagen"
     ],
@@ -762,7 +762,7 @@
     "year": "2021",
     "birthCity": "frankfurt-on-the-main",
     "affiliationCities": [
-      "mülheim an der ruhr"
+      "mulheim an der ruhr"
     ],
     "motivation": "for the development of asymmetric organocatalysis"
   },
@@ -804,9 +804,9 @@
     "fullName": "Bertram N. Brockhouse",
     "category": "Physics",
     "year": "1994",
-    "birthCity": "lethbridge, alberta",
+    "birthCity": "lethbridge",
     "affiliationCities": [
-      "hamilton, ontario"
+      "hamilton"
     ],
     "motivation": "for the development of neutron spectroscopy"
   },
@@ -826,9 +826,9 @@
     "fullName": "Brian Kobilka",
     "category": "Chemistry",
     "year": "2012",
-    "birthCity": "little falls, mn",
+    "birthCity": "little falls",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for studies of G-protein-coupled receptors"
   },
@@ -837,7 +837,7 @@
     "fullName": "Brian P. Schmidt",
     "category": "Physics",
     "year": "2011",
-    "birthCity": "missoula, mt",
+    "birthCity": "missoula",
     "affiliationCities": [
       "weston creek"
     ],
@@ -848,10 +848,10 @@
     "fullName": "Bruce A. Beutler",
     "category": "Physiology or Medicine",
     "year": "2011",
-    "birthCity": "chicago, il",
+    "birthCity": "chicago",
     "affiliationCities": [
-      "dallas, tx",
-      "la jolla, ca"
+      "dallas",
+      "la jolla"
     ],
     "motivation": "for their discoveries concerning the activation of innate immunity"
   },
@@ -860,9 +860,9 @@
     "fullName": "Bruce Merrifield",
     "category": "Chemistry",
     "year": "1984",
-    "birthCity": "fort worth, tx",
+    "birthCity": "fort worth",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for his development of methodology for chemical synthesis on a solid matrix"
   },
@@ -871,9 +871,9 @@
     "fullName": "Burton Richter",
     "category": "Physics",
     "year": "1976",
-    "birthCity": "brooklyn, ny",
+    "birthCity": "brooklyn",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for their pioneering work in the discovery of a heavy elementary particle of a new kind"
   },
@@ -918,7 +918,7 @@
     "year": "1947",
     "birthCity": "prague",
     "affiliationCities": [
-      "st. louis, mo"
+      "saint louis"
     ],
     "motivation": "for their discovery of the course of the catalytic conversion of glycogen"
   },
@@ -927,9 +927,9 @@
     "fullName": "Carl D. Anderson",
     "category": "Physics",
     "year": "1936",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for his discovery of the positron"
   },
@@ -938,9 +938,9 @@
     "fullName": "Carl Wieman",
     "category": "Physics",
     "year": "2001",
-    "birthCity": "corvallis, or",
+    "birthCity": "corvallis",
     "affiliationCities": [
-      "boulder, co"
+      "boulder"
     ],
     "motivation": "for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates"
   },
@@ -960,9 +960,9 @@
     "fullName": "Carol W. Greider",
     "category": "Physiology or Medicine",
     "year": "2009",
-    "birthCity": "san diego, ca",
+    "birthCity": "san diego",
     "affiliationCities": [
-      "baltimore, md"
+      "baltimore"
     ],
     "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase"
   },
@@ -971,9 +971,9 @@
     "fullName": "Carolyn Bertozzi",
     "category": "Chemistry",
     "year": "2022",
-    "birthCity": "boston, ma",
+    "birthCity": "boston",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for the development of click chemistry and bioorthogonal chemistry"
   },
@@ -1004,9 +1004,9 @@
     "fullName": "Charles B. Huggins",
     "category": "Physiology or Medicine",
     "year": "1966",
-    "birthCity": "halifax, nova scotia",
+    "birthCity": "halifax",
     "affiliationCities": [
-      "chicago, il"
+      "chicago"
     ],
     "motivation": "for his discoveries concerning hormonal treatment of prostatic cancer"
   },
@@ -1017,7 +1017,7 @@
     "year": "1920",
     "birthCity": "fleurier",
     "affiliationCities": [
-      "sèvres"
+      "sevres"
     ],
     "motivation": "in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys"
   },
@@ -1037,9 +1037,9 @@
     "fullName": "Charles H. Townes",
     "category": "Physics",
     "year": "1964",
-    "birthCity": "greenville, sc",
+    "birthCity": "greenville",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle"
   },
@@ -1050,7 +1050,7 @@
     "year": "1987",
     "birthCity": "pusan",
     "affiliationCities": [
-      "wilmington, de"
+      "wilmington"
     ],
     "motivation": "for their development and use of molecules with structure-specific interactions of high selectivity"
   },
@@ -1071,9 +1071,9 @@
     "fullName": "Charles M. Rice",
     "category": "Physiology or Medicine",
     "year": "2020",
-    "birthCity": "sacramento, ca",
+    "birthCity": "sacramento",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for the discovery of Hepatitis C virus"
   },
@@ -1104,9 +1104,9 @@
     "fullName": "Chen Ning Yang",
     "category": "Physics",
     "year": "1957",
-    "birthCity": "hofei, anhwei",
+    "birthCity": "hofei",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles"
   },
@@ -1126,9 +1126,9 @@
     "fullName": "Christian Anfinsen",
     "category": "Chemistry",
     "year": "1972",
-    "birthCity": "monessen, pa",
+    "birthCity": "monessen",
     "affiliationCities": [
-      "bethesda, md"
+      "bethesda"
     ],
     "motivation": "for his work on ribonuclease, especially concerning the connection between the amino acid sequence and the biologically active conformation"
   },
@@ -1139,7 +1139,7 @@
     "year": "1974",
     "birthCity": "thames ditton",
     "affiliationCities": [
-      "new york, ny",
+      "new york",
       "louvain"
     ],
     "motivation": "for their discoveries concerning the structural and functional organization of the cell"
@@ -1151,7 +1151,7 @@
     "year": "1995",
     "birthCity": "magdeburg",
     "affiliationCities": [
-      "tübingen"
+      "tubingen"
     ],
     "motivation": "for their discoveries concerning the genetic control of early embryonic development"
   },
@@ -1172,9 +1172,9 @@
     "fullName": "Clifford G. Shull",
     "category": "Physics",
     "year": "1994",
-    "birthCity": "pittsburgh, pa",
+    "birthCity": "pittsburgh",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for the development of the neutron diffraction technique"
   },
@@ -1183,9 +1183,9 @@
     "fullName": "Clinton Davisson",
     "category": "Physics",
     "year": "1937",
-    "birthCity": "bloomington, il",
+    "birthCity": "bloomington",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their experimental discovery of the diffraction of electrons by crystals"
   },
@@ -1205,9 +1205,9 @@
     "fullName": "Craig C. Mello",
     "category": "Physiology or Medicine",
     "year": "2006",
-    "birthCity": "new haven, ct",
+    "birthCity": "new haven",
     "affiliationCities": [
-      "worcester, ma"
+      "worcester"
     ],
     "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA"
   },
@@ -1216,9 +1216,9 @@
     "fullName": "D. Carleton Gajdusek",
     "category": "Physiology or Medicine",
     "year": "1976",
-    "birthCity": "yonkers, ny",
+    "birthCity": "yonkers",
     "affiliationCities": [
-      "bethesda, md"
+      "bethesda"
     ],
     "motivation": "for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases"
   },
@@ -1238,7 +1238,7 @@
     "fullName": "Daniel Bovet",
     "category": "Physiology or Medicine",
     "year": "1957",
-    "birthCity": "neuchâtel",
+    "birthCity": "neuchatel",
     "affiliationCities": [
       "rome"
     ],
@@ -1251,7 +1251,7 @@
     "year": "1998",
     "birthCity": "henan",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for their discovery of a new form of quantum fluid with fractionally charged excitations"
   },
@@ -1260,9 +1260,9 @@
     "fullName": "Daniel Nathans",
     "category": "Physiology or Medicine",
     "year": "1978",
-    "birthCity": "wilmington, de",
+    "birthCity": "wilmington",
     "affiliationCities": [
-      "baltimore, md"
+      "baltimore"
     ],
     "motivation": "for the discovery of restriction enzymes and their application to problems of molecular genetics"
   },
@@ -1271,9 +1271,9 @@
     "fullName": "David Baker",
     "category": "Chemistry",
     "year": "2024",
-    "birthCity": "seattle, wa",
+    "birthCity": "seattle",
     "affiliationCities": [
-      "seattle, wa"
+      "seattle"
     ],
     "motivation": "for computational protein design"
   },
@@ -1282,9 +1282,9 @@
     "fullName": "David Baltimore",
     "category": "Physiology or Medicine",
     "year": "1975",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell"
   },
@@ -1293,9 +1293,9 @@
     "fullName": "David H. Hubel",
     "category": "Physiology or Medicine",
     "year": "1981",
-    "birthCity": "windsor, on",
+    "birthCity": "windsor",
     "affiliationCities": [
-      "boston, ma"
+      "boston"
     ],
     "motivation": "for their discoveries concerning information processing in the visual system"
   },
@@ -1304,9 +1304,9 @@
     "fullName": "David J. Gross",
     "category": "Physics",
     "year": "2004",
-    "birthCity": "washington, d.c.",
+    "birthCity": "washington",
     "affiliationCities": [
-      "santa barbara, ca"
+      "santa barbara"
     ],
     "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction"
   },
@@ -1317,7 +1317,7 @@
     "year": "2016",
     "birthCity": "bearsden",
     "affiliationCities": [
-      "seattle, wa"
+      "seattle"
     ],
     "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
   },
@@ -1326,10 +1326,10 @@
     "fullName": "David J. Wineland",
     "category": "Physics",
     "year": "2012",
-    "birthCity": "milwaukee, wi",
+    "birthCity": "milwaukee",
     "affiliationCities": [
-      "boulder, co",
-      "boulder, co"
+      "boulder",
+      "boulder"
     ],
     "motivation": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems"
   },
@@ -1338,9 +1338,9 @@
     "fullName": "David Julius",
     "category": "Physiology or Medicine",
     "year": "2021",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "san francisco, ca"
+      "san francisco"
     ],
     "motivation": "for their discoveries of receptors for temperature and touch"
   },
@@ -1349,9 +1349,9 @@
     "fullName": "David M. Lee",
     "category": "Physics",
     "year": "1996",
-    "birthCity": "rye, ny",
+    "birthCity": "rye",
     "affiliationCities": [
-      "ithaca, ny"
+      "ithaca"
     ],
     "motivation": "for their discovery of superfluidity in helium-3"
   },
@@ -1362,7 +1362,7 @@
     "year": "2021",
     "birthCity": "bellshill",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for the development of asymmetric organocatalysis"
   },
@@ -1404,9 +1404,9 @@
     "fullName": "Dickinson W. Richards",
     "category": "Physiology or Medicine",
     "year": "1956",
-    "birthCity": "orange, nj",
+    "birthCity": "orange",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discoveries concerning heart catheterization and pathological changes in the circulatory system"
   },
@@ -1427,9 +1427,9 @@
     "fullName": "Donald A. Glaser",
     "category": "Physics",
     "year": "1960",
-    "birthCity": "cleveland, oh",
+    "birthCity": "cleveland",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for the invention of the bubble chamber"
   },
@@ -1438,9 +1438,9 @@
     "fullName": "Donald J. Cram",
     "category": "Chemistry",
     "year": "1987",
-    "birthCity": "chester, vt",
+    "birthCity": "chester",
     "affiliationCities": [
-      "los angeles, ca"
+      "los angeles"
     ],
     "motivation": "for their development and use of molecules with structure-specific interactions of high selectivity"
   },
@@ -1471,9 +1471,9 @@
     "fullName": "Douglas D. Osheroff",
     "category": "Physics",
     "year": "1996",
-    "birthCity": "aberdeen, wa",
+    "birthCity": "aberdeen",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for their discovery of superfluidity in helium-3"
   },
@@ -1482,9 +1482,9 @@
     "fullName": "Drew Weissman",
     "category": "Physiology or Medicine",
     "year": "2023",
-    "birthCity": "lexington, ma",
+    "birthCity": "lexington",
     "affiliationCities": [
-      "philadelphia, pa"
+      "philadelphia"
     ],
     "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19"
   },
@@ -1493,9 +1493,9 @@
     "fullName": "Dudley R. Herschbach",
     "category": "Chemistry",
     "year": "1986",
-    "birthCity": "san josé, ca",
+    "birthCity": "san jose",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their contributions concerning the dynamics of chemical elementary processes"
   },
@@ -1504,9 +1504,9 @@
     "fullName": "E. Donnall Thomas",
     "category": "Physiology or Medicine",
     "year": "1990",
-    "birthCity": "mart, tx",
+    "birthCity": "mart",
     "affiliationCities": [
-      "seattle, wa"
+      "seattle"
     ],
     "motivation": "for their discoveries concerning organ and cell transplantation in the treatment of human disease"
   },
@@ -1515,9 +1515,9 @@
     "fullName": "E. M. Purcell",
     "category": "Physics",
     "year": "1952",
-    "birthCity": "taylorville, il",
+    "birthCity": "taylorville",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith"
   },
@@ -1526,9 +1526,9 @@
     "fullName": "Earl W. Sutherland, Jr.",
     "category": "Physiology or Medicine",
     "year": "1971",
-    "birthCity": "burlingame, ks",
+    "birthCity": "burlingame",
     "affiliationCities": [
-      "nashville, tn"
+      "nashville"
     ],
     "motivation": "for his discoveries concerning the mechanisms of the action of hormones"
   },
@@ -1550,7 +1550,7 @@
     "year": "1992",
     "birthCity": "shanghai",
     "affiliationCities": [
-      "seattle, wa"
+      "seattle"
     ],
     "motivation": "for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism"
   },
@@ -1570,7 +1570,7 @@
     "fullName": "Edvard I. Moser",
     "category": "Physiology or Medicine",
     "year": "2014",
-    "birthCity": "ålesund",
+    "birthCity": "alesund",
     "affiliationCities": [
       "trondheim"
     ],
@@ -1581,9 +1581,9 @@
     "fullName": "Edward A. Doisy",
     "category": "Physiology or Medicine",
     "year": "1943",
-    "birthCity": "hume, il",
+    "birthCity": "hume",
     "affiliationCities": [
-      "st. louis, mo"
+      "saint louis"
     ],
     "motivation": "for his discovery of the chemical nature of vitamin K"
   },
@@ -1592,9 +1592,9 @@
     "fullName": "Edward B. Lewis",
     "category": "Physiology or Medicine",
     "year": "1995",
-    "birthCity": "wilkes-barre, pa",
+    "birthCity": "wilkes-barre",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for their discoveries concerning the genetic control of early embryonic development"
   },
@@ -1603,9 +1603,9 @@
     "fullName": "Edward C. Kendall",
     "category": "Physiology or Medicine",
     "year": "1950",
-    "birthCity": "south norwalk, ct",
+    "birthCity": "south norwalk",
     "affiliationCities": [
-      "rochester, mn"
+      "rochester"
     ],
     "motivation": "for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects"
   },
@@ -1614,9 +1614,9 @@
     "fullName": "Edward Tatum",
     "category": "Physiology or Medicine",
     "year": "1958",
-    "birthCity": "boulder, co",
+    "birthCity": "boulder",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discovery that genes act by regulating definite chemical events"
   },
@@ -1636,9 +1636,9 @@
     "fullName": "Edwin G. Krebs",
     "category": "Physiology or Medicine",
     "year": "1992",
-    "birthCity": "lansing, ia",
+    "birthCity": "lansing",
     "affiliationCities": [
-      "seattle, wa"
+      "seattle"
     ],
     "motivation": "for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism"
   },
@@ -1647,9 +1647,9 @@
     "fullName": "Edwin M. McMillan",
     "category": "Chemistry",
     "year": "1951",
-    "birthCity": "redondo beach, ca",
+    "birthCity": "redondo beach",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for their discoveries in the chemistry of the transuranium elements"
   },
@@ -1672,7 +1672,7 @@
     "year": "2010",
     "birthCity": "changchun",
     "affiliationCities": [
-      "west lafayette, in"
+      "west lafayette"
     ],
     "motivation": "for palladium-catalyzed cross couplings in organic synthesis"
   },
@@ -1681,9 +1681,9 @@
     "fullName": "Elias James Corey",
     "category": "Chemistry",
     "year": "1990",
-    "birthCity": "methuen, ma",
+    "birthCity": "methuen",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for his development of the theory and methodology of organic synthesis"
   },
@@ -1692,9 +1692,9 @@
     "fullName": "Elizabeth H. Blackburn",
     "category": "Physiology or Medicine",
     "year": "2009",
-    "birthCity": "hobart, tasmania",
+    "birthCity": "hobart",
     "affiliationCities": [
-      "san francisco, ca"
+      "san francisco"
     ],
     "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase"
   },
@@ -1727,7 +1727,7 @@
     "year": "1959",
     "birthCity": "tivoli",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for their discovery of the antiproton"
   },
@@ -1758,9 +1758,9 @@
     "fullName": "Eric Betzig",
     "category": "Chemistry",
     "year": "2014",
-    "birthCity": "ann arbor, mi",
+    "birthCity": "ann arbor",
     "affiliationCities": [
-      "ashburn, va"
+      "ashburn"
     ],
     "motivation": "for the development of super-resolved fluorescence microscopy"
   },
@@ -1769,9 +1769,9 @@
     "fullName": "Eric Cornell",
     "category": "Physics",
     "year": "2001",
-    "birthCity": "palo alto, ca",
+    "birthCity": "palo alto",
     "affiliationCities": [
-      "boulder, co"
+      "boulder"
     ],
     "motivation": "for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates"
   },
@@ -1780,9 +1780,9 @@
     "fullName": "Eric F. Wieschaus",
     "category": "Physiology or Medicine",
     "year": "1995",
-    "birthCity": "south bend, in",
+    "birthCity": "south bend",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for their discoveries concerning the genetic control of early embryonic development"
   },
@@ -1793,7 +1793,7 @@
     "year": "2000",
     "birthCity": "vienna",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discoveries concerning signal transduction in the nervous system"
   },
@@ -1802,9 +1802,9 @@
     "fullName": "Ernest Lawrence",
     "category": "Physics",
     "year": "1939",
-    "birthCity": "canton, sd",
+    "birthCity": "canton",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements"
   },
@@ -1870,7 +1870,7 @@
     "year": "1991",
     "birthCity": "landsberg",
     "affiliationCities": [
-      "göttingen"
+      "gottingen"
     ],
     "motivation": "for their discoveries concerning the function of single ion channels in cells"
   },
@@ -1892,7 +1892,7 @@
     "year": "1963",
     "birthCity": "budapest",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles"
   },
@@ -1903,7 +1903,7 @@
     "year": "2016",
     "birthCity": "london",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
   },
@@ -1912,9 +1912,9 @@
     "fullName": "F. Sherwood Rowland",
     "category": "Chemistry",
     "year": "1995",
-    "birthCity": "delaware, oh",
+    "birthCity": "delaware",
     "affiliationCities": [
-      "irvine, ca"
+      "irvine"
     ],
     "motivation": "for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone"
   },
@@ -1925,7 +1925,7 @@
     "year": "1952",
     "birthCity": "zurich",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith"
   },
@@ -1956,7 +1956,7 @@
     "fullName": "Ferenc Krausz",
     "category": "Physics",
     "year": "2023",
-    "birthCity": "mór",
+    "birthCity": "mor",
     "affiliationCities": [
       "garching",
       "munich"
@@ -1968,9 +1968,9 @@
     "fullName": "Ferid Murad",
     "category": "Physiology or Medicine",
     "year": "1998",
-    "birthCity": "whiting, in",
+    "birthCity": "whiting",
     "affiliationCities": [
-      "houston, tx"
+      "houston"
     ],
     "motivation": "for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system"
   },
@@ -1979,9 +1979,9 @@
     "fullName": "Frances H. Arnold",
     "category": "Chemistry",
     "year": "2018",
-    "birthCity": "pittsburgh, pa",
+    "birthCity": "pittsburgh",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for the directed evolution of enzymes"
   },
@@ -2045,9 +2045,9 @@
     "fullName": "Frank Wilczek",
     "category": "Physics",
     "year": "2004",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction"
   },
@@ -2056,9 +2056,9 @@
     "fullName": "Fred Ramsdell",
     "category": "Physiology or Medicine",
     "year": "2025",
-    "birthCity": "elmhurst, il",
+    "birthCity": "elmhurst",
     "affiliationCities": [
-      "san francisco, ca"
+      "san francisco"
     ],
     "motivation": "for their discoveries concerning peripheral immune tolerance"
   },
@@ -2078,9 +2078,9 @@
     "fullName": "Frederick C. Robbins",
     "category": "Physiology or Medicine",
     "year": "1954",
-    "birthCity": "auburn, al",
+    "birthCity": "auburn",
     "affiliationCities": [
-      "cleveland, oh"
+      "cleveland"
     ],
     "motivation": "for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue"
   },
@@ -2100,9 +2100,9 @@
     "fullName": "Frederick Reines",
     "category": "Physics",
     "year": "1995",
-    "birthCity": "paterson, nj",
+    "birthCity": "paterson",
     "affiliationCities": [
-      "irvine, ca"
+      "irvine"
     ],
     "motivation": "for the detection of the neutrino"
   },
@@ -2144,7 +2144,7 @@
     "fullName": "Friedrich Bergius",
     "category": "Chemistry",
     "year": "1931",
-    "birthCity": "goldschmieden, near breslau",
+    "birthCity": "goldschmieden",
     "affiliationCities": [
       "heidelberg",
       "mannheim-rheinau"
@@ -2180,8 +2180,8 @@
     "year": "1953",
     "birthCity": "koenigsberg",
     "affiliationCities": [
-      "boston, ma",
-      "boston, ma"
+      "boston",
+      "boston"
     ],
     "motivation": "for his discovery of co-enzyme A and its importance for intermediary metabolism"
   },
@@ -2212,10 +2212,10 @@
     "fullName": "Gary Ruvkun",
     "category": "Physiology or Medicine",
     "year": "2024",
-    "birthCity": "berkeley, ca",
+    "birthCity": "berkeley",
     "affiliationCities": [
-      "boston, ma",
-      "boston, ma"
+      "boston",
+      "boston"
     ],
     "motivation": "for the discovery of microRNA and its role in post-transcriptional gene regulation"
   },
@@ -2248,7 +2248,7 @@
     "year": "1961",
     "birthCity": "budapest",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for his discoveries of the physical mechanism of stimulation within the cochlea"
   },
@@ -2270,7 +2270,7 @@
     "year": "1994",
     "birthCity": "budapest",
     "affiliationCities": [
-      "los angeles, ca"
+      "los angeles"
     ],
     "motivation": "for his contribution to carbocation chemistry"
   },
@@ -2279,9 +2279,9 @@
     "fullName": "George Beadle",
     "category": "Physiology or Medicine",
     "year": "1958",
-    "birthCity": "wahoo, ne",
+    "birthCity": "wahoo",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for their discovery that genes act by regulating definite chemical events"
   },
@@ -2290,9 +2290,9 @@
     "fullName": "George D. Snell",
     "category": "Physiology or Medicine",
     "year": "1980",
-    "birthCity": "bradford, ma",
+    "birthCity": "bradford",
     "affiliationCities": [
-      "bar harbor, me"
+      "bar harbor"
     ],
     "motivation": "for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions"
   },
@@ -2314,7 +2314,7 @@
     "year": "1974",
     "birthCity": "iasi",
     "affiliationCities": [
-      "new haven, ct"
+      "new haven"
     ],
     "motivation": "for their discoveries concerning the structural and functional organization of the cell"
   },
@@ -2323,9 +2323,9 @@
     "fullName": "George E. Smith",
     "category": "Physics",
     "year": "2009",
-    "birthCity": "white plains, ny",
+    "birthCity": "white plains",
     "affiliationCities": [
-      "murray hill, nj"
+      "murray hill"
     ],
     "motivation": "for the invention of an imaging semiconductor circuit - the CCD sensor"
   },
@@ -2334,9 +2334,9 @@
     "fullName": "George F. Smoot",
     "category": "Physics",
     "year": "2006",
-    "birthCity": "yukon, fl",
+    "birthCity": "yukon",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation"
   },
@@ -2345,9 +2345,9 @@
     "fullName": "George H. Hitchings",
     "category": "Physiology or Medicine",
     "year": "1988",
-    "birthCity": "hoquiam, wa",
+    "birthCity": "hoquiam",
     "affiliationCities": [
-      "research triangle park, nc"
+      "research triangle park"
     ],
     "motivation": "for their discoveries of important principles for drug treatment"
   },
@@ -2356,9 +2356,9 @@
     "fullName": "George H. Whipple",
     "category": "Physiology or Medicine",
     "year": "1934",
-    "birthCity": "ashland, nh",
+    "birthCity": "ashland",
     "affiliationCities": [
-      "rochester, ny"
+      "rochester"
     ],
     "motivation": "for their discoveries concerning liver therapy in cases of anaemia"
   },
@@ -2367,7 +2367,7 @@
     "fullName": "George P. Smith",
     "category": "Chemistry",
     "year": "2018",
-    "birthCity": "norwalk, ct",
+    "birthCity": "norwalk",
     "affiliationCities": [
       "columbia"
     ],
@@ -2400,9 +2400,9 @@
     "fullName": "George R. Minot",
     "category": "Physiology or Medicine",
     "year": "1934",
-    "birthCity": "boston, ma",
+    "birthCity": "boston",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their discoveries concerning liver therapy in cases of anaemia"
   },
@@ -2411,9 +2411,9 @@
     "fullName": "George Wald",
     "category": "Physiology or Medicine",
     "year": "1967",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their discoveries concerning the primary physiological and chemical visual processes in the eye"
   },
@@ -2445,9 +2445,9 @@
     "fullName": "Gerald M. Edelman",
     "category": "Physiology or Medicine",
     "year": "1972",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discoveries concerning the chemical structure of antibodies"
   },
@@ -2459,7 +2459,7 @@
     "birthCity": "albertville",
     "affiliationCities": [
       "palaiseau",
-      "ann arbor, mi"
+      "ann arbor"
     ],
     "motivation": "for their method of generating high-intensity, ultra-short optical pulses"
   },
@@ -2481,7 +2481,7 @@
     "year": "1986",
     "birthCity": "frankfurt-on-the-main",
     "affiliationCities": [
-      "rüschlikon"
+      "ruschlikon"
     ],
     "motivation": "for their design of the scanning tunneling microscope"
   },
@@ -2523,9 +2523,9 @@
     "fullName": "Gertrude B. Elion",
     "category": "Physiology or Medicine",
     "year": "1988",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "research triangle park, nc"
+      "research triangle park"
     ],
     "motivation": "for their discoveries of important principles for drug treatment"
   },
@@ -2536,7 +2536,7 @@
     "year": "1947",
     "birthCity": "prague",
     "affiliationCities": [
-      "st. louis, mo"
+      "saint louis"
     ],
     "motivation": "for their discovery of the course of the catalytic conversion of glycogen"
   },
@@ -2567,9 +2567,9 @@
     "fullName": "Glenn T. Seaborg",
     "category": "Chemistry",
     "year": "1951",
-    "birthCity": "ishpeming, mi",
+    "birthCity": "ishpeming",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for their discoveries in the chemistry of the transuranium elements"
   },
@@ -2589,9 +2589,9 @@
     "fullName": "Gregg L. Semenza",
     "category": "Physiology or Medicine",
     "year": "2019",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "baltimore, md"
+      "baltimore"
     ],
     "motivation": "for their discoveries of how cells sense and adapt to oxygen availability"
   },
@@ -2613,7 +2613,7 @@
     "year": "1999",
     "birthCity": "waltersdorf",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for the discovery that proteins have intrinsic signals that govern their transport and localization in the cell"
   },
@@ -2624,7 +2624,7 @@
     "year": "1912",
     "birthCity": "stenstorp",
     "affiliationCities": [
-      "lidingö, stockholm"
+      "lidingo"
     ],
     "motivation": "for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys"
   },
@@ -2644,9 +2644,9 @@
     "fullName": "H. David Politzer",
     "category": "Physics",
     "year": "2004",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for the discovery of asymptotic freedom in the theory of the strong interaction"
   },
@@ -2657,7 +2657,7 @@
     "year": "1968",
     "birthCity": "raipur",
     "affiliationCities": [
-      "madison, wi"
+      "madison"
     ],
     "motivation": "for their interpretation of the genetic code and its function in protein synthesis"
   },
@@ -2666,9 +2666,9 @@
     "fullName": "H. Robert Horvitz",
     "category": "Physiology or Medicine",
     "year": "2002",
-    "birthCity": "chicago, il",
+    "birthCity": "chicago",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death"
   },
@@ -2677,9 +2677,9 @@
     "fullName": "Hamilton O. Smith",
     "category": "Physiology or Medicine",
     "year": "1978",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "baltimore, md"
+      "baltimore"
     ],
     "motivation": "for the discovery of restriction enzymes and their application to problems of molecular genetics"
   },
@@ -2688,7 +2688,7 @@
     "fullName": "Hannes Alfvén",
     "category": "Physics",
     "year": "1970",
-    "birthCity": "norrköping",
+    "birthCity": "norrkoping",
     "affiliationCities": [
       "stockholm"
     ],
@@ -2701,7 +2701,7 @@
     "year": "1967",
     "birthCity": "strasbourg",
     "affiliationCities": [
-      "ithaca, ny"
+      "ithaca"
     ],
     "motivation": "for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars"
   },
@@ -2721,9 +2721,9 @@
     "fullName": "Hans G. Dehmelt",
     "category": "Physics",
     "year": "1989",
-    "birthCity": "görlitz",
+    "birthCity": "gorlitz",
     "affiliationCities": [
-      "seattle, wa"
+      "seattle"
     ],
     "motivation": "for the development of the ion trap technique"
   },
@@ -2776,9 +2776,9 @@
     "fullName": "Harold C. Urey",
     "category": "Chemistry",
     "year": "1934",
-    "birthCity": "walkerton, in",
+    "birthCity": "walkerton",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for his discovery of heavy hydrogen"
   },
@@ -2787,9 +2787,9 @@
     "fullName": "Harold E. Varmus",
     "category": "Physiology or Medicine",
     "year": "1989",
-    "birthCity": "oceanside, ny",
+    "birthCity": "oceanside",
     "affiliationCities": [
-      "san francisco, ca"
+      "san francisco"
     ],
     "motivation": "for their discovery of the cellular origin of retroviral oncogenes"
   },
@@ -2809,9 +2809,9 @@
     "fullName": "Harvey J. Alter",
     "category": "Physiology or Medicine",
     "year": "2020",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "bethesda, md"
+      "bethesda"
     ],
     "motivation": "for the discovery of Hepatitis C virus"
   },
@@ -2833,7 +2833,7 @@
     "year": "1986",
     "birthCity": "buchs",
     "affiliationCities": [
-      "rüschlikon"
+      "ruschlikon"
     ],
     "motivation": "for their design of the scanning tunneling microscope"
   },
@@ -2899,7 +2899,7 @@
     "year": "1983",
     "birthCity": "neudorf",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for his work on the mechanisms of electron transfer reactions, especially in metal complexes"
   },
@@ -2908,9 +2908,9 @@
     "fullName": "Henry W. Kendall",
     "category": "Physics",
     "year": "1990",
-    "birthCity": "boston, ma",
+    "birthCity": "boston",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics"
   },
@@ -2919,9 +2919,9 @@
     "fullName": "Herbert A. Hauptman",
     "category": "Chemistry",
     "year": "1985",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "buffalo, ny"
+      "buffalo"
     ],
     "motivation": "for their outstanding achievements in the development of direct methods for the determination of crystal structures"
   },
@@ -2932,7 +2932,7 @@
     "year": "1979",
     "birthCity": "london",
     "affiliationCities": [
-      "west lafayette, in"
+      "west lafayette"
     ],
     "motivation": "for their development of the use of boron- and phosphorus-containing compounds, respectively, into important reagents in organic synthesis"
   },
@@ -2943,7 +2943,7 @@
     "year": "2000",
     "birthCity": "weimar",
     "affiliationCities": [
-      "santa barbara, ca"
+      "santa barbara"
     ],
     "motivation": "for developing semiconductor heterostructures used in high-speed- and opto-electronics"
   },
@@ -2952,9 +2952,9 @@
     "fullName": "Herbert S. Gasser",
     "category": "Physiology or Medicine",
     "year": "1944",
-    "birthCity": "platteville, wi",
+    "birthCity": "platteville",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discoveries relating to the highly differentiated functions of single nerve fibres"
   },
@@ -2963,9 +2963,9 @@
     "fullName": "Hermann J. Muller",
     "category": "Physiology or Medicine",
     "year": "1946",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "bloomington, in"
+      "bloomington"
     ],
     "motivation": "for the discovery of the production of mutations by means of X-ray irradiation"
   },
@@ -2999,7 +2999,7 @@
     "year": "1949",
     "birthCity": "tokyo",
     "affiliationCities": [
-      "new york, ny",
+      "new york",
       "kyoto"
     ],
     "motivation": "for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces"
@@ -3022,7 +3022,7 @@
     "year": "1998",
     "birthCity": "frankfurt-on-the-main",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discovery of a new form of quantum fluid with fractionally charged excitations"
   },
@@ -3031,9 +3031,9 @@
     "fullName": "Howard M. Temin",
     "category": "Physiology or Medicine",
     "year": "1975",
-    "birthCity": "philadelphia, pa",
+    "birthCity": "philadelphia",
     "affiliationCities": [
-      "madison, wi"
+      "madison"
     ],
     "motivation": "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell"
   },
@@ -3042,7 +3042,7 @@
     "fullName": "Hugo Theorell",
     "category": "Physiology or Medicine",
     "year": "1955",
-    "birthCity": "linköping",
+    "birthCity": "linkoping",
     "affiliationCities": [
       "stockholm"
     ],
@@ -3091,7 +3091,7 @@
     "birthCity": "moscow",
     "affiliationCities": [
       "brussels",
-      "austin, tx"
+      "austin"
     ],
     "motivation": "for his contributions to non-equilibrium thermodynamics, particularly the theory of dissipative structures"
   },
@@ -3111,9 +3111,9 @@
     "fullName": "Irving Langmuir",
     "category": "Chemistry",
     "year": "1932",
-    "birthCity": "brooklyn, ny",
+    "birthCity": "brooklyn",
     "affiliationCities": [
-      "schenectady, ny"
+      "schenectady"
     ],
     "motivation": "for his discoveries and investigations in surface chemistry"
   },
@@ -3122,9 +3122,9 @@
     "fullName": "Irwin Rose",
     "category": "Chemistry",
     "year": "2004",
-    "birthCity": "brooklyn, ny",
+    "birthCity": "brooklyn",
     "affiliationCities": [
-      "irvine, ca"
+      "irvine"
     ],
     "motivation": "for the discovery of ubiquitin-mediated protein degradation"
   },
@@ -3147,7 +3147,7 @@
     "year": "1944",
     "birthCity": "rymanow",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for his resonance method for recording the magnetic properties of atomic nuclei"
   },
@@ -3169,7 +3169,7 @@
     "year": "1973",
     "birthCity": "bergen",
     "affiliationCities": [
-      "schenectady, ny"
+      "schenectady"
     ],
     "motivation": "for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively"
   },
@@ -3180,7 +3180,7 @@
     "year": "1987",
     "birthCity": "neuenkirchen",
     "affiliationCities": [
-      "rüschlikon"
+      "ruschlikon"
     ],
     "motivation": "for their important break-through in the discovery of superconductivity in ceramic materials"
   },
@@ -3200,9 +3200,9 @@
     "fullName": "J. Michael Bishop",
     "category": "Physiology or Medicine",
     "year": "1989",
-    "birthCity": "york, pa",
+    "birthCity": "york",
     "affiliationCities": [
-      "san francisco, ca"
+      "san francisco"
     ],
     "motivation": "for their discovery of the cellular origin of retroviral oncogenes"
   },
@@ -3213,7 +3213,7 @@
     "year": "2016",
     "birthCity": "aberdeen",
     "affiliationCities": [
-      "providence, ri"
+      "providence"
     ],
     "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
   },
@@ -3242,9 +3242,9 @@
     "fullName": "Jack Kilby",
     "category": "Physics",
     "year": "2000",
-    "birthCity": "jefferson city, mo",
+    "birthCity": "jefferson city",
     "affiliationCities": [
-      "dallas, tx"
+      "dallas"
     ],
     "motivation": "for his part in the invention of the integrated circuit"
   },
@@ -3266,8 +3266,8 @@
     "year": "2009",
     "birthCity": "london",
     "affiliationCities": [
-      "boston, ma",
-      "boston, ma"
+      "boston",
+      "boston"
     ],
     "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase"
   },
@@ -3309,9 +3309,9 @@
     "fullName": "James B. Sumner",
     "category": "Chemistry",
     "year": "1946",
-    "birthCity": "canton, ma",
+    "birthCity": "canton",
     "affiliationCities": [
-      "ithaca, ny"
+      "ithaca"
     ],
     "motivation": "for his discovery that enzymes can be crystallized"
   },
@@ -3331,9 +3331,9 @@
     "fullName": "James Cronin",
     "category": "Physics",
     "year": "1980",
-    "birthCity": "chicago, il",
+    "birthCity": "chicago",
     "affiliationCities": [
-      "chicago, il"
+      "chicago"
     ],
     "motivation": "for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons"
   },
@@ -3342,9 +3342,9 @@
     "fullName": "James E. Rothman",
     "category": "Physiology or Medicine",
     "year": "2013",
-    "birthCity": "haverhill, ma",
+    "birthCity": "haverhill",
     "affiliationCities": [
-      "new haven, ct"
+      "new haven"
     ],
     "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
   },
@@ -3355,7 +3355,7 @@
     "year": "1925",
     "birthCity": "hamburg",
     "affiliationCities": [
-      "göttingen"
+      "gottingen"
     ],
     "motivation": "for their discovery of the laws governing the impact of an electron upon an atom"
   },
@@ -3364,10 +3364,10 @@
     "fullName": "James P. Allison",
     "category": "Physiology or Medicine",
     "year": "2018",
-    "birthCity": "alice, tx",
+    "birthCity": "alice",
     "affiliationCities": [
-      "san francisco, ca",
-      "houston, tx"
+      "san francisco",
+      "houston"
     ],
     "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation"
   },
@@ -3378,7 +3378,7 @@
     "year": "2019",
     "birthCity": "winnipeg",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for theoretical discoveries in physical cosmology"
   },
@@ -3387,9 +3387,9 @@
     "fullName": "James Rainwater",
     "category": "Physics",
     "year": "1975",
-    "birthCity": "council, id",
+    "birthCity": "council",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection"
   },
@@ -3398,9 +3398,9 @@
     "fullName": "James Watson",
     "category": "Physiology or Medicine",
     "year": "1962",
-    "birthCity": "chicago, il",
+    "birthCity": "chicago",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material"
   },
@@ -3465,9 +3465,9 @@
     "fullName": "Jeffrey C. Hall",
     "category": "Physiology or Medicine",
     "year": "2017",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "maine, me"
+      "maine"
     ],
     "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
   },
@@ -3476,9 +3476,9 @@
     "fullName": "Jennifer A. Doudna",
     "category": "Chemistry",
     "year": "2020",
-    "birthCity": "washington, d.c.",
+    "birthCity": "washington",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for the development of a method for genome editing"
   },
@@ -3498,9 +3498,9 @@
     "fullName": "Jerome I. Friedman",
     "category": "Physics",
     "year": "1990",
-    "birthCity": "chicago, il",
+    "birthCity": "chicago",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics"
   },
@@ -3509,9 +3509,9 @@
     "fullName": "Jerome Karle",
     "category": "Chemistry",
     "year": "1985",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "washington, d.c."
+      "washington"
     ],
     "motivation": "for their outstanding achievements in the development of direct methods for the determination of crystal structures"
   },
@@ -3522,7 +3522,7 @@
     "year": "2017",
     "birthCity": "siegen",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution"
   },
@@ -3533,7 +3533,7 @@
     "year": "1988",
     "birthCity": "zusamaltheim",
     "affiliationCities": [
-      "dallas, tx"
+      "dallas"
     ],
     "motivation": "for the determination of the three-dimensional structure of a photosynthetic reaction centre"
   },
@@ -3575,9 +3575,9 @@
     "fullName": "John B. Fenn",
     "category": "Chemistry",
     "year": "2002",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "richmond, va"
+      "richmond"
     ],
     "motivation": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules"
   },
@@ -3588,7 +3588,7 @@
     "year": "2019",
     "birthCity": "jena",
     "affiliationCities": [
-      "austin, tx"
+      "austin"
     ],
     "motivation": "for the development of lithium-ion batteries"
   },
@@ -3597,9 +3597,9 @@
     "fullName": "John Bardeen",
     "category": "Physics",
     "year": "1956",
-    "birthCity": "madison, wi",
+    "birthCity": "madison",
     "affiliationCities": [
-      "urbana, il"
+      "urbana"
     ],
     "motivation": "for their researches on semiconductors and their discovery of the transistor effect"
   },
@@ -3608,9 +3608,9 @@
     "fullName": "John Bardeen",
     "category": "Physics",
     "year": "1972",
-    "birthCity": "madison, wi",
+    "birthCity": "madison",
     "affiliationCities": [
-      "urbana, il"
+      "urbana"
     ],
     "motivation": "for their jointly developed theory of superconductivity, usually called the BCS-theory"
   },
@@ -3630,9 +3630,9 @@
     "fullName": "John C. Mather",
     "category": "Physics",
     "year": "2006",
-    "birthCity": "roanoke, va",
+    "birthCity": "roanoke",
     "affiliationCities": [
-      "greenbelt, md"
+      "greenbelt"
     ],
     "motivation": "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation"
   },
@@ -3654,7 +3654,7 @@
     "year": "2025",
     "birthCity": "cambridge",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit"
   },
@@ -3663,9 +3663,9 @@
     "fullName": "John Clauser",
     "category": "Physics",
     "year": "2022",
-    "birthCity": "pasadena, ca",
+    "birthCity": "pasadena",
     "affiliationCities": [
-      "walnut creek, ca"
+      "walnut creek"
     ],
     "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science"
   },
@@ -3676,7 +3676,7 @@
     "year": "1951",
     "birthCity": "todmorden",
     "affiliationCities": [
-      "harwell, berkshire"
+      "harwell"
     ],
     "motivation": "for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles"
   },
@@ -3718,10 +3718,10 @@
     "fullName": "John F. Enders",
     "category": "Physiology or Medicine",
     "year": "1954",
-    "birthCity": "west hartford, ct",
+    "birthCity": "west hartford",
     "affiliationCities": [
-      "boston, ma",
-      "boston, ma"
+      "boston",
+      "boston"
     ],
     "motivation": "for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue"
   },
@@ -3730,9 +3730,9 @@
     "fullName": "John H. Northrop",
     "category": "Chemistry",
     "year": "1946",
-    "birthCity": "yonkers, ny",
+    "birthCity": "yonkers",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for their preparation of enzymes and virus proteins in a pure form"
   },
@@ -3741,9 +3741,9 @@
     "fullName": "John H. Van Vleck",
     "category": "Physics",
     "year": "1977",
-    "birthCity": "middletown, ct",
+    "birthCity": "middletown",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems"
   },
@@ -3752,9 +3752,9 @@
     "fullName": "John J. Hopfield",
     "category": "Physics",
     "year": "2024",
-    "birthCity": "chicago, il",
+    "birthCity": "chicago",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for foundational discoveries and inventions that enable machine learning with artificial neural networks"
   },
@@ -3763,7 +3763,7 @@
     "fullName": "John Jumper",
     "category": "Chemistry",
     "year": "2024",
-    "birthCity": "little rock, ar",
+    "birthCity": "little rock",
     "affiliationCities": [
       "london"
     ],
@@ -3774,10 +3774,10 @@
     "fullName": "John L. Hall",
     "category": "Physics",
     "year": "2005",
-    "birthCity": "denver, co",
+    "birthCity": "denver",
     "affiliationCities": [
-      "boulder, co",
-      "boulder, co"
+      "boulder",
+      "boulder"
     ],
     "motivation": "for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique"
   },
@@ -3788,8 +3788,8 @@
     "year": "2025",
     "birthCity": null,
     "affiliationCities": [
-      "santa barbara, ca",
-      "los angeles, ca"
+      "santa barbara",
+      "los angeles"
     ],
     "motivation": "for the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit"
   },
@@ -3809,7 +3809,7 @@
     "fullName": "John O'Keefe",
     "category": "Physiology or Medicine",
     "year": "2014",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
       "london"
     ],
@@ -3822,7 +3822,7 @@
     "year": "1998",
     "birthCity": "burnham-on-sea",
     "affiliationCities": [
-      "evanston, il"
+      "evanston"
     ],
     "motivation": "for his development of computational methods in quantum chemistry"
   },
@@ -3842,9 +3842,9 @@
     "fullName": "Joseph E. Murray",
     "category": "Physiology or Medicine",
     "year": "1990",
-    "birthCity": "milford, ma",
+    "birthCity": "milford",
     "affiliationCities": [
-      "boston, ma"
+      "boston"
     ],
     "motivation": "for their discoveries concerning organ and cell transplantation in the treatment of human disease"
   },
@@ -3853,9 +3853,9 @@
     "fullName": "Joseph Erlanger",
     "category": "Physiology or Medicine",
     "year": "1944",
-    "birthCity": "san francisco, ca",
+    "birthCity": "san francisco",
     "affiliationCities": [
-      "st. louis, mo"
+      "saint louis"
     ],
     "motivation": "for their discoveries relating to the highly differentiated functions of single nerve fibres"
   },
@@ -3864,9 +3864,9 @@
     "fullName": "Joseph H. Taylor Jr.",
     "category": "Physics",
     "year": "1993",
-    "birthCity": "philadelphia, pa",
+    "birthCity": "philadelphia",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation"
   },
@@ -3875,9 +3875,9 @@
     "fullName": "Joseph L. Goldstein",
     "category": "Physiology or Medicine",
     "year": "1985",
-    "birthCity": "sumter, sc",
+    "birthCity": "sumter",
     "affiliationCities": [
-      "dallas, tx"
+      "dallas"
     ],
     "motivation": "for their discoveries concerning the regulation of cholesterol metabolism"
   },
@@ -3886,9 +3886,9 @@
     "fullName": "Joshua Lederberg",
     "category": "Physiology or Medicine",
     "year": "1958",
-    "birthCity": "montclair, nj",
+    "birthCity": "montclair",
     "affiliationCities": [
-      "madison, wi"
+      "madison"
     ],
     "motivation": "for his discoveries concerning genetic recombination and the organization of the genetic material of bacteria"
   },
@@ -3919,9 +3919,9 @@
     "fullName": "Julian Schwinger",
     "category": "Physics",
     "year": "1965",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles"
   },
@@ -3930,9 +3930,9 @@
     "fullName": "Julius Axelrod",
     "category": "Physiology or Medicine",
     "year": "1970",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "bethesda, md"
+      "bethesda"
     ],
     "motivation": "for their discoveries concerning the humoral transmitters in the nerve terminals and the mechanism for their storage, release and inactivation"
   },
@@ -3954,7 +3954,7 @@
     "year": "1987",
     "birthCity": "basel",
     "affiliationCities": [
-      "rüschlikon"
+      "ruschlikon"
     ],
     "motivation": "for their important break-through in the discovery of superconductivity in ceramic materials"
   },
@@ -3963,9 +3963,9 @@
     "fullName": "K. Barry Sharpless",
     "category": "Chemistry",
     "year": "2001",
-    "birthCity": "philadelphia, pa",
+    "birthCity": "philadelphia",
     "affiliationCities": [
-      "la jolla, ca"
+      "la jolla"
     ],
     "motivation": "for his work on chirally catalysed oxidation reactions"
   },
@@ -3974,9 +3974,9 @@
     "fullName": "K. Barry Sharpless",
     "category": "Chemistry",
     "year": "2022",
-    "birthCity": "philadelphia, pa",
+    "birthCity": "philadelphia",
     "affiliationCities": [
-      "la jolla, ca"
+      "la jolla"
     ],
     "motivation": "for the development of click chemistry and bioorthogonal chemistry"
   },
@@ -3998,7 +3998,7 @@
     "year": "1930",
     "birthCity": "vienna",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for his discovery of human blood groups"
   },
@@ -4020,7 +4020,7 @@
     "year": "1963",
     "birthCity": "helsa",
     "affiliationCities": [
-      "mülheim an der ruhr"
+      "mulheim an der ruhr"
     ],
     "motivation": "for their discoveries in the field of the chemistry and technology of high polymers"
   },
@@ -4029,7 +4029,7 @@
     "fullName": "Kary B. Mullis",
     "category": "Chemistry",
     "year": "1993",
-    "birthCity": "lenoir, nc",
+    "birthCity": "lenoir",
     "affiliationCities": [],
     "motivation": "for his invention of the polymerase chain reaction (PCR) method"
   },
@@ -4041,7 +4041,7 @@
     "birthCity": "szolnok",
     "affiliationCities": [
       "szeged",
-      "philadelphia, pa"
+      "philadelphia"
     ],
     "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19"
   },
@@ -4050,9 +4050,9 @@
     "fullName": "Keffer Hartline",
     "category": "Physiology or Medicine",
     "year": "1967",
-    "birthCity": "bloomsburg, pa",
+    "birthCity": "bloomsburg",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discoveries concerning the primary physiological and chemical visual processes in the eye"
   },
@@ -4072,9 +4072,9 @@
     "fullName": "Kenneth G. Wilson",
     "category": "Physics",
     "year": "1982",
-    "birthCity": "waltham, ma",
+    "birthCity": "waltham",
     "affiliationCities": [
-      "ithaca, ny"
+      "ithaca"
     ],
     "motivation": "for his theory for critical phenomena in connection with phase transitions"
   },
@@ -4083,9 +4083,9 @@
     "fullName": "Kip S. Thorne",
     "category": "Physics",
     "year": "2017",
-    "birthCity": "logan, ut",
+    "birthCity": "logan",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
   },
@@ -4129,7 +4129,7 @@
     "year": "1964",
     "birthCity": "neisse",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism"
   },
@@ -4140,7 +4140,7 @@
     "year": "1973",
     "birthCity": "vienna",
     "affiliationCities": [
-      "altenberg; grünau im almtal",
+      "altenberg; grunau im almtal",
       "seewiesen"
     ],
     "motivation": "for their discoveries concerning organization and elicitation of individual and social behaviour patterns"
@@ -4161,7 +4161,7 @@
     "fullName": "Kurt Alder",
     "category": "Chemistry",
     "year": "1950",
-    "birthCity": "königshütte",
+    "birthCity": "konigshutte",
     "affiliationCities": [
       "cologne"
     ],
@@ -4175,7 +4175,7 @@
     "birthCity": "aarberg",
     "affiliationCities": [
       "zurich",
-      "la jolla, ca"
+      "la jolla"
     ],
     "motivation": "for his development of nuclear magnetic resonance spectroscopy for determining the three-dimensional structure of biological macromolecules in solution"
   },
@@ -4186,7 +4186,7 @@
     "year": "1968",
     "birthCity": "kristiania",
     "affiliationCities": [
-      "new haven, ct"
+      "new haven"
     ],
     "motivation": "for the discovery of the reciprocal relations bearing his name, which are fundamental for the thermodynamics of irreversible processes"
   },
@@ -4206,9 +4206,9 @@
     "fullName": "Leland Hartwell",
     "category": "Physiology or Medicine",
     "year": "2001",
-    "birthCity": "los angeles, ca",
+    "birthCity": "los angeles",
     "affiliationCities": [
-      "seattle, wa"
+      "seattle"
     ],
     "motivation": "for their discoveries of key regulators of the cell cycle"
   },
@@ -4219,7 +4219,7 @@
     "year": "1973",
     "birthCity": "osaka",
     "affiliationCities": [
-      "yorktown heights, ny"
+      "yorktown heights"
     ],
     "motivation": "for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively"
   },
@@ -4228,9 +4228,9 @@
     "fullName": "Leon M. Lederman",
     "category": "Physics",
     "year": "1988",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "batavia, il"
+      "batavia"
     ],
     "motivation": "for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino"
   },
@@ -4239,9 +4239,9 @@
     "fullName": "Leon N. Cooper",
     "category": "Physics",
     "year": "1972",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "providence, ri"
+      "providence"
     ],
     "motivation": "for their jointly developed theory of superconductivity, usually called the BCS-theory"
   },
@@ -4272,9 +4272,9 @@
     "fullName": "Linda B. Buck",
     "category": "Physiology or Medicine",
     "year": "2004",
-    "birthCity": "seattle, wa",
+    "birthCity": "seattle",
     "affiliationCities": [
-      "seattle, wa"
+      "seattle"
     ],
     "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system"
   },
@@ -4283,9 +4283,9 @@
     "fullName": "Linus Pauling",
     "category": "Chemistry",
     "year": "1954",
-    "birthCity": "portland, or",
+    "birthCity": "portland",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for his research into the nature of the chemical bond and its application to the elucidation of the structure of complex substances"
   },
@@ -4294,7 +4294,7 @@
     "fullName": "Lord Rayleigh",
     "category": "Physics",
     "year": "1904",
-    "birthCity": "langford grove, maldon, essex",
+    "birthCity": "langford grove",
     "affiliationCities": [
       "london"
     ],
@@ -4316,9 +4316,9 @@
     "fullName": "Louis Brus",
     "category": "Chemistry",
     "year": "2023",
-    "birthCity": "cleveland, oh",
+    "birthCity": "cleveland",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for the discovery and synthesis of quantum dots"
   },
@@ -4338,9 +4338,9 @@
     "fullName": "Louis J. Ignarro",
     "category": "Physiology or Medicine",
     "year": "1998",
-    "birthCity": "brooklyn, ny",
+    "birthCity": "brooklyn",
     "affiliationCities": [
-      "los angeles, ca"
+      "los angeles"
     ],
     "motivation": "for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system"
   },
@@ -4371,9 +4371,9 @@
     "fullName": "Luis Alvarez",
     "category": "Physics",
     "year": "1968",
-    "birthCity": "san francisco, ca",
+    "birthCity": "san francisco",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for his decisive contributions to elementary particle physics, in particular the discovery of a large number of resonance states, made possible through his development of the technique of using hydrogen bubble chamber and data analysis"
   },
@@ -4395,7 +4395,7 @@
     "year": "2019",
     "birthCity": null,
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for the development of lithium-ion batteries"
   },
@@ -4417,7 +4417,7 @@
     "year": "1967",
     "birthCity": "bochum",
     "affiliationCities": [
-      "göttingen"
+      "gottingen"
     ],
     "motivation": "for their studies of extremely fast chemical reactions, effected by disturbing the equilibrium by means of very short pulses of energy"
   },
@@ -4426,7 +4426,7 @@
     "fullName": "Manne Siegbahn",
     "category": "Physics",
     "year": "1924",
-    "birthCity": "örebro",
+    "birthCity": "orebro",
     "affiliationCities": [
       "uppsala"
     ],
@@ -4439,7 +4439,7 @@
     "year": "1963",
     "birthCity": "kattowitz",
     "affiliationCities": [
-      "san diego, ca"
+      "san diego"
     ],
     "motivation": "for their discoveries concerning nuclear shell structure"
   },
@@ -4470,7 +4470,7 @@
     "year": "1995",
     "birthCity": "mexico city",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone"
   },
@@ -4481,7 +4481,7 @@
     "year": "2007",
     "birthCity": "verona",
     "affiliationCities": [
-      "salt lake city, ut"
+      "salt lake city"
     ],
     "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells"
   },
@@ -4490,9 +4490,9 @@
     "fullName": "Marshall W. Nirenberg",
     "category": "Physiology or Medicine",
     "year": "1968",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "bethesda, md"
+      "bethesda"
     ],
     "motivation": "for their interpretation of the genetic code and its function in protein synthesis"
   },
@@ -4501,9 +4501,9 @@
     "fullName": "Martin Chalfie",
     "category": "Chemistry",
     "year": "2008",
-    "birthCity": "chicago, il",
+    "birthCity": "chicago",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for the discovery and development of the green fluorescent protein, GFP"
   },
@@ -4515,7 +4515,7 @@
     "birthCity": "vienna",
     "affiliationCities": [
       "strasbourg",
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for the development of multiscale models for complex chemical systems"
   },
@@ -4524,9 +4524,9 @@
     "fullName": "Martin L. Perl",
     "category": "Physics",
     "year": "1995",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for the discovery of the tau lepton"
   },
@@ -4535,9 +4535,9 @@
     "fullName": "Martin Rodbell",
     "category": "Physiology or Medicine",
     "year": "1994",
-    "birthCity": "baltimore, md",
+    "birthCity": "baltimore",
     "affiliationCities": [
-      "research triangle park, nc"
+      "research triangle park"
     ],
     "motivation": "for their discovery of G-proteins and the role of these proteins in signal transduction in cells"
   },
@@ -4566,9 +4566,9 @@
     "fullName": "Mary E. Brunkow",
     "category": "Physiology or Medicine",
     "year": "2025",
-    "birthCity": "portland, or",
+    "birthCity": "portland",
     "affiliationCities": [
-      "seattle, wa"
+      "seattle"
     ],
     "motivation": "for their discoveries concerning peripheral immune tolerance"
   },
@@ -4612,7 +4612,7 @@
     "year": "1969",
     "birthCity": "berlin",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for their discoveries concerning the replication mechanism and the genetic structure of viruses"
   },
@@ -4645,7 +4645,7 @@
     "year": "1951",
     "birthCity": "pretoria",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for his discoveries concerning yellow fever and how to combat it"
   },
@@ -4665,7 +4665,7 @@
     "fullName": "May-Britt Moser",
     "category": "Physiology or Medicine",
     "year": "2014",
-    "birthCity": "fosnavåg",
+    "birthCity": "fosnavag",
     "affiliationCities": [
       "trondheim"
     ],
@@ -4676,9 +4676,9 @@
     "fullName": "Melvin Calvin",
     "category": "Chemistry",
     "year": "1961",
-    "birthCity": "st. paul, mn",
+    "birthCity": "st. paul",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for his research on the carbon dioxide assimilation in plants"
   },
@@ -4687,9 +4687,9 @@
     "fullName": "Melvin Schwartz",
     "category": "Physics",
     "year": "1988",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "mountain view, ca"
+      "mountain view"
     ],
     "motivation": "for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino"
   },
@@ -4711,7 +4711,7 @@
     "year": "2013",
     "birthCity": "pretoria",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for the development of multiscale models for complex chemical systems"
   },
@@ -4720,9 +4720,9 @@
     "fullName": "Michael Rosbash",
     "category": "Physiology or Medicine",
     "year": "2017",
-    "birthCity": "kansas city, mo",
+    "birthCity": "kansas city",
     "affiliationCities": [
-      "waltham, ma"
+      "waltham"
     ],
     "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
   },
@@ -4731,9 +4731,9 @@
     "fullName": "Michael S. Brown",
     "category": "Physiology or Medicine",
     "year": "1985",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "dallas, tx"
+      "dallas"
     ],
     "motivation": "for their discoveries concerning the regulation of cholesterol metabolism"
   },
@@ -4753,9 +4753,9 @@
     "fullName": "Michael W. Young",
     "category": "Physiology or Medicine",
     "year": "2017",
-    "birthCity": "miami, fl",
+    "birthCity": "miami",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
   },
@@ -4766,9 +4766,9 @@
     "year": "2025",
     "birthCity": "paris",
     "affiliationCities": [
-      "new haven, ct",
-      "santa barbara, ca",
-      "santa barbara, ca"
+      "new haven",
+      "santa barbara",
+      "santa barbara"
     ],
     "motivation": "for the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit"
   },
@@ -4801,7 +4801,7 @@
     "year": "2023",
     "birthCity": "paris",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for the discovery and synthesis of quantum dots"
   },
@@ -4810,9 +4810,9 @@
     "fullName": "Murray Gell-Mann",
     "category": "Physics",
     "year": "1969",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for his contributions and discoveries concerning the classification of elementary particles and their interactions"
   },
@@ -4823,7 +4823,7 @@
     "year": "1981",
     "birthCity": "dordrecht",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their contribution to the development of laser spectroscopy"
   },
@@ -4899,9 +4899,9 @@
     "fullName": "Norman F. Ramsey",
     "category": "Physics",
     "year": "1989",
-    "birthCity": "washington, d.c.",
+    "birthCity": "washington",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for the invention of the separated oscillatory fields method and its use in the hydrogen maser and other atomic clocks"
   },
@@ -4934,7 +4934,7 @@
     "year": "2007",
     "birthCity": "halifax",
     "affiliationCities": [
-      "chapel hill, nc"
+      "chapel hill"
     ],
     "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells"
   },
@@ -4945,7 +4945,7 @@
     "year": "2025",
     "birthCity": "amman",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for the development of metal–organic frameworks"
   },
@@ -4956,8 +4956,8 @@
     "year": "2008",
     "birthCity": "kyoto",
     "affiliationCities": [
-      "woods hole, ma",
-      "massachusetts, ma"
+      "woods hole",
+      "massachusetts"
     ],
     "motivation": "for the discovery and development of the green fluorescent protein, GFP"
   },
@@ -5012,7 +5012,7 @@
     "year": "1943",
     "birthCity": "sorau",
     "affiliationCities": [
-      "pittsburgh, pa"
+      "pittsburgh"
     ],
     "motivation": "for his contribution to the development of the molecular ray method and his discovery of the magnetic moment of the proton"
   },
@@ -5023,7 +5023,7 @@
     "year": "1910",
     "birthCity": "koenigsberg",
     "affiliationCities": [
-      "göttingen"
+      "gottingen"
     ],
     "motivation": "in recognition of his services to organic chemistry and the chemical industry by his pioneer work in the field of alicyclic compounds"
   },
@@ -5043,9 +5043,9 @@
     "fullName": "Owen Chamberlain",
     "category": "Physics",
     "year": "1959",
-    "birthCity": "san francisco, ca",
+    "birthCity": "san francisco",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for their discovery of the antiproton"
   },
@@ -5087,9 +5087,9 @@
     "fullName": "Paul Berg",
     "category": "Chemistry",
     "year": "1980",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for his fundamental studies of the biochemistry of nucleic acids, with particular regard to recombinant-DNA"
   },
@@ -5098,9 +5098,9 @@
     "fullName": "Paul C. Lauterbur",
     "category": "Physiology or Medicine",
     "year": "2003",
-    "birthCity": "sidney, oh",
+    "birthCity": "sidney",
     "affiliationCities": [
-      "urbana, il"
+      "urbana"
     ],
     "motivation": "for their discoveries concerning magnetic resonance imaging"
   },
@@ -5109,9 +5109,9 @@
     "fullName": "Paul D. Boyer",
     "category": "Chemistry",
     "year": "1997",
-    "birthCity": "provo, ut",
+    "birthCity": "provo",
     "affiliationCities": [
-      "los angeles, ca"
+      "los angeles"
     ],
     "motivation": "for their elucidation of the enzymatic mechanism underlying the synthesis of adenosine triphosphate (ATP)"
   },
@@ -5122,7 +5122,7 @@
     "year": "1908",
     "birthCity": "strehlen",
     "affiliationCities": [
-      "göttingen",
+      "gottingen",
       "frankfurt-on-the-main"
     ],
     "motivation": "in recognition of their work on immunity"
@@ -5132,9 +5132,9 @@
     "fullName": "Paul Greengard",
     "category": "Physiology or Medicine",
     "year": "2000",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discoveries concerning signal transduction in the nervous system"
   },
@@ -5154,9 +5154,9 @@
     "fullName": "Paul J. Flory",
     "category": "Chemistry",
     "year": "1974",
-    "birthCity": "sterling, il",
+    "birthCity": "sterling",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for his fundamental achievements, both theoretical and experimental, in the physical chemistry of the macromolecules"
   },
@@ -5176,10 +5176,10 @@
     "fullName": "Paul Modrich",
     "category": "Chemistry",
     "year": "2015",
-    "birthCity": "raton, nm",
+    "birthCity": "raton",
     "affiliationCities": [
-      "durham, nc",
-      "durham, nc"
+      "durham",
+      "durham"
     ],
     "motivation": "for mechanistic studies of DNA repair"
   },
@@ -5221,9 +5221,9 @@
     "fullName": "Percy W. Bridgman",
     "category": "Physics",
     "year": "1946",
-    "birthCity": "cambridge, ma",
+    "birthCity": "cambridge",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for the invention of an apparatus to produce extremely high pressures, and for the discoveries he made therewith in the field of high pressure physics"
   },
@@ -5232,9 +5232,9 @@
     "fullName": "Peter Agre",
     "category": "Chemistry",
     "year": "2003",
-    "birthCity": "northfield, mn",
+    "birthCity": "northfield",
     "affiliationCities": [
-      "baltimore, md"
+      "baltimore"
     ],
     "motivation": "for the discovery of water channels"
   },
@@ -5245,7 +5245,7 @@
     "year": "1996",
     "birthCity": "brisbane",
     "affiliationCities": [
-      "memphis, tn"
+      "memphis"
     ],
     "motivation": "for their discoveries concerning the specificity of the cell mediated immune defence"
   },
@@ -5268,7 +5268,7 @@
     "year": "2007",
     "birthCity": "plzen",
     "affiliationCities": [
-      "jülich"
+      "julich"
     ],
     "motivation": "for the discovery of Giant Magnetoresistance"
   },
@@ -5310,9 +5310,9 @@
     "fullName": "Peyton Rous",
     "category": "Physiology or Medicine",
     "year": "1966",
-    "birthCity": "baltimore, md",
+    "birthCity": "baltimore",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for his discovery of tumour-inducing viruses"
   },
@@ -5321,9 +5321,9 @@
     "fullName": "Philip S. Hench",
     "category": "Physiology or Medicine",
     "year": "1950",
-    "birthCity": "pittsburgh, pa",
+    "birthCity": "pittsburgh",
     "affiliationCities": [
-      "rochester, mn"
+      "rochester"
     ],
     "motivation": "for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects"
   },
@@ -5332,9 +5332,9 @@
     "fullName": "Philip W. Anderson",
     "category": "Physics",
     "year": "1977",
-    "birthCity": "indianapolis, in",
+    "birthCity": "indianapolis",
     "affiliationCities": [
-      "murray hill, nj"
+      "murray hill"
     ],
     "motivation": "for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems"
   },
@@ -5354,9 +5354,9 @@
     "fullName": "Phillip A. Sharp",
     "category": "Physiology or Medicine",
     "year": "1993",
-    "birthCity": "falmouth, ky",
+    "birthCity": "falmouth",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their discoveries of split genes"
   },
@@ -5367,7 +5367,7 @@
     "year": "2023",
     "birthCity": "tunis",
     "affiliationCities": [
-      "columbus, oh"
+      "columbus"
     ],
     "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter"
   },
@@ -5411,7 +5411,7 @@
     "year": "1955",
     "birthCity": "blankenburg",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for his precision determination of the magnetic moment of the electron"
   },
@@ -5444,7 +5444,7 @@
     "year": "2017",
     "birthCity": "berlin",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
   },
@@ -5455,7 +5455,7 @@
     "year": "2011",
     "birthCity": "montreal",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for his discovery of the dendritic cell and its role in adaptive immunity"
   },
@@ -5464,9 +5464,9 @@
     "fullName": "Randy W. Schekman",
     "category": "Physiology or Medicine",
     "year": "2013",
-    "birthCity": "st. paul, mn",
+    "birthCity": "st. paul",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
   },
@@ -5475,9 +5475,9 @@
     "fullName": "Raymond Davis Jr.",
     "category": "Physics",
     "year": "2002",
-    "birthCity": "washington, d.c.",
+    "birthCity": "washington",
     "affiliationCities": [
-      "philadelphia, pa"
+      "philadelphia"
     ],
     "motivation": "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos"
   },
@@ -5486,10 +5486,10 @@
     "fullName": "Reinhard Genzel",
     "category": "Physics",
     "year": "2020",
-    "birthCity": "bad homburg vor der höhe",
+    "birthCity": "bad homburg vor der hohe",
     "affiliationCities": [
       "garching",
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy"
   },
@@ -5511,7 +5511,7 @@
     "year": "2002",
     "birthCity": "genoa",
     "affiliationCities": [
-      "washington, d.c."
+      "washington"
     ],
     "motivation": "for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources"
   },
@@ -5520,9 +5520,9 @@
     "fullName": "Richard Axel",
     "category": "Physiology or Medicine",
     "year": "2004",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system"
   },
@@ -5531,9 +5531,9 @@
     "fullName": "Richard E. Smalley",
     "category": "Chemistry",
     "year": "1996",
-    "birthCity": "akron, oh",
+    "birthCity": "akron",
     "affiliationCities": [
-      "houston, tx"
+      "houston"
     ],
     "motivation": "for their discovery of fullerenes"
   },
@@ -5542,9 +5542,9 @@
     "fullName": "Richard E. Taylor",
     "category": "Physics",
     "year": "1990",
-    "birthCity": "medicine hat, alberta",
+    "birthCity": "medicine hat",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics"
   },
@@ -5553,7 +5553,7 @@
     "fullName": "Richard F. Heck",
     "category": "Chemistry",
     "year": "2010",
-    "birthCity": "springfield, ma",
+    "birthCity": "springfield",
     "affiliationCities": [],
     "motivation": "for palladium-catalyzed cross couplings in organic synthesis"
   },
@@ -5575,7 +5575,7 @@
     "year": "1993",
     "birthCity": "derby",
     "affiliationCities": [
-      "beverly, ma"
+      "beverly"
     ],
     "motivation": "for their discoveries of split genes"
   },
@@ -5607,9 +5607,9 @@
     "fullName": "Richard P. Feynman",
     "category": "Physics",
     "year": "1965",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles"
   },
@@ -5629,9 +5629,9 @@
     "fullName": "Richard R. Schrock",
     "category": "Chemistry",
     "year": "2005",
-    "birthCity": "berne, in",
+    "birthCity": "berne",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for the development of the metathesis method in organic synthesis"
   },
@@ -5665,7 +5665,7 @@
     "year": "1925",
     "birthCity": "vienna",
     "affiliationCities": [
-      "göttingen"
+      "gottingen"
     ],
     "motivation": "for his demonstration of the heterogenous nature of colloid solutions and for the methods he used, which have since become fundamental in modern colloid chemistry"
   },
@@ -5687,7 +5687,7 @@
     "year": "1981",
     "birthCity": "zloczov",
     "affiliationCities": [
-      "ithaca, ny"
+      "ithaca"
     ],
     "motivation": "for their theories, developed independently, concerning the course of chemical reactions"
   },
@@ -5696,9 +5696,9 @@
     "fullName": "Robert A. Millikan",
     "category": "Physics",
     "year": "1923",
-    "birthCity": "morrison, il",
+    "birthCity": "morrison",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for his work on the elementary charge of electricity and on the photoelectric effect"
   },
@@ -5707,9 +5707,9 @@
     "fullName": "Robert B. Laughlin",
     "category": "Physics",
     "year": "1998",
-    "birthCity": "visalia, ca",
+    "birthCity": "visalia",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for their discovery of a new form of quantum fluid with fractionally charged excitations"
   },
@@ -5718,9 +5718,9 @@
     "fullName": "Robert B. Woodward",
     "category": "Chemistry",
     "year": "1965",
-    "birthCity": "boston, ma",
+    "birthCity": "boston",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for his outstanding achievements in the art of organic synthesis"
   },
@@ -5740,9 +5740,9 @@
     "fullName": "Robert C. Richardson",
     "category": "Physics",
     "year": "1996",
-    "birthCity": "washington, d.c.",
+    "birthCity": "washington",
     "affiliationCities": [
-      "ithaca, ny"
+      "ithaca"
     ],
     "motivation": "for their discovery of superfluidity in helium-3"
   },
@@ -5751,9 +5751,9 @@
     "fullName": "Robert F. Curl Jr.",
     "category": "Chemistry",
     "year": "1996",
-    "birthCity": "alice, tx",
+    "birthCity": "alice",
     "affiliationCities": [
-      "houston, tx"
+      "houston"
     ],
     "motivation": "for their discovery of fullerenes"
   },
@@ -5762,9 +5762,9 @@
     "fullName": "Robert F. Furchgott",
     "category": "Physiology or Medicine",
     "year": "1998",
-    "birthCity": "charleston, sc",
+    "birthCity": "charleston",
     "affiliationCities": [
-      "brooklyn, ny"
+      "brooklyn"
     ],
     "motivation": "for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system"
   },
@@ -5784,9 +5784,9 @@
     "fullName": "Robert H. Grubbs",
     "category": "Chemistry",
     "year": "2005",
-    "birthCity": "possum trot, ky",
+    "birthCity": "possum trot",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for the development of the metathesis method in organic synthesis"
   },
@@ -5795,9 +5795,9 @@
     "fullName": "Robert Hofstadter",
     "category": "Physics",
     "year": "1961",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons"
   },
@@ -5817,9 +5817,9 @@
     "fullName": "Robert J. Lefkowitz",
     "category": "Chemistry",
     "year": "2012",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "durham, nc"
+      "durham"
     ],
     "motivation": "for studies of G-protein-coupled receptors"
   },
@@ -5839,9 +5839,9 @@
     "fullName": "Robert S. Mulliken",
     "category": "Chemistry",
     "year": "1966",
-    "birthCity": "newburyport, ma",
+    "birthCity": "newburyport",
     "affiliationCities": [
-      "chicago, il"
+      "chicago"
     ],
     "motivation": "for his fundamental work concerning chemical bonds and the electronic structure of molecules by the molecular orbital method"
   },
@@ -5850,9 +5850,9 @@
     "fullName": "Robert Schrieffer",
     "category": "Physics",
     "year": "1972",
-    "birthCity": "oak park, il",
+    "birthCity": "oak park",
     "affiliationCities": [
-      "philadelphia, pa"
+      "philadelphia"
     ],
     "motivation": "for their jointly developed theory of superconductivity, usually called the BCS-theory"
   },
@@ -5861,9 +5861,9 @@
     "fullName": "Robert W. Holley",
     "category": "Physiology or Medicine",
     "year": "1968",
-    "birthCity": "urbana, il",
+    "birthCity": "urbana",
     "affiliationCities": [
-      "ithaca, ny"
+      "ithaca"
     ],
     "motivation": "for their interpretation of the genetic code and its function in protein synthesis"
   },
@@ -5872,9 +5872,9 @@
     "fullName": "Robert Woodrow Wilson",
     "category": "Physics",
     "year": "1978",
-    "birthCity": "houston, tx",
+    "birthCity": "houston",
     "affiliationCities": [
-      "holmdel, nj"
+      "holmdel"
     ],
     "motivation": "for their discovery of cosmic microwave background radiation"
   },
@@ -5883,9 +5883,9 @@
     "fullName": "Roderick MacKinnon",
     "category": "Chemistry",
     "year": "2003",
-    "birthCity": "burlington, ma",
+    "birthCity": "burlington",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for structural and mechanistic studies of ion channels"
   },
@@ -5905,9 +5905,9 @@
     "fullName": "Roger D. Kornberg",
     "category": "Chemistry",
     "year": "2006",
-    "birthCity": "st. louis, mo",
+    "birthCity": "saint louis",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for his studies of the molecular basis of eukaryotic transcription"
   },
@@ -5918,7 +5918,7 @@
     "year": "1977",
     "birthCity": "dijon",
     "affiliationCities": [
-      "san diego, ca"
+      "san diego"
     ],
     "motivation": "for their discoveries concerning the peptide hormone production of the brain"
   },
@@ -5938,9 +5938,9 @@
     "fullName": "Roger W. Sperry",
     "category": "Physiology or Medicine",
     "year": "1981",
-    "birthCity": "hartford, ct",
+    "birthCity": "hartford",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for his discoveries concerning the functional specialization of the cerebral hemispheres"
   },
@@ -5949,9 +5949,9 @@
     "fullName": "Roger Y. Tsien",
     "category": "Chemistry",
     "year": "2008",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "san diego, ca"
+      "san diego"
     ],
     "motivation": "for the discovery and development of the green fluorescent protein, GFP"
   },
@@ -5993,9 +5993,9 @@
     "fullName": "Rosalyn Yalow",
     "category": "Physiology or Medicine",
     "year": "1977",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "bronx, ny"
+      "bronx"
     ],
     "motivation": "for the development of radioimmunoassays of peptide hormones"
   },
@@ -6004,9 +6004,9 @@
     "fullName": "Roy J. Glauber",
     "category": "Physics",
     "year": "2005",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for his contribution to the quantum theory of optical coherence"
   },
@@ -6018,7 +6018,7 @@
     "birthCity": "munich",
     "affiliationCities": [
       "munich",
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name"
   },
@@ -6029,7 +6029,7 @@
     "year": "1992",
     "birthCity": "montreal",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for his contributions to the theory of electron transfer reactions in chemical systems"
   },
@@ -6038,9 +6038,9 @@
     "fullName": "Russell A. Hulse",
     "category": "Physics",
     "year": "1993",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation"
   },
@@ -6062,7 +6062,7 @@
     "year": "1969",
     "birthCity": "turin",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their discoveries concerning the replication mechanism and the genetic structure of viruses"
   },
@@ -6071,9 +6071,9 @@
     "fullName": "Samuel C.C. Ting",
     "category": "Physics",
     "year": "1976",
-    "birthCity": "ann arbor, mi",
+    "birthCity": "ann arbor",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their pioneering work in the discovery of a heavy elementary particle of a new kind"
   },
@@ -6082,7 +6082,7 @@
     "fullName": "Santiago Ramón y Cajal",
     "category": "Physiology or Medicine",
     "year": "1906",
-    "birthCity": "petilla de aragón",
+    "birthCity": "petilla de aragon",
     "affiliationCities": [
       "madrid"
     ],
@@ -6104,10 +6104,10 @@
     "fullName": "Saul Perlmutter",
     "category": "Physics",
     "year": "2011",
-    "birthCity": "champaign-urbana, il",
+    "birthCity": "champaign-urbana",
     "affiliationCities": [
-      "berkeley, ca",
-      "berkeley, ca"
+      "berkeley",
+      "berkeley"
     ],
     "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"
   },
@@ -6118,7 +6118,7 @@
     "year": "1952",
     "birthCity": "priluka",
     "affiliationCities": [
-      "new brunswick, nj"
+      "new brunswick"
     ],
     "motivation": "for his discovery of streptomycin, the first antibiotic effective against tuberculosis"
   },
@@ -6141,7 +6141,7 @@
     "year": "1959",
     "birthCity": "luarca",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid"
   },
@@ -6150,9 +6150,9 @@
     "fullName": "Sheldon Glashow",
     "category": "Physics",
     "year": "1979",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current"
   },
@@ -6161,7 +6161,7 @@
     "fullName": "Shimon Sakaguchi",
     "category": "Physiology or Medicine",
     "year": "2025",
-    "birthCity": "nagahama, shiga",
+    "birthCity": "nagahama",
     "affiliationCities": [
       "osaka"
     ],
@@ -6175,7 +6175,7 @@
     "birthCity": "osaka",
     "affiliationCities": [
       "kyoto",
-      "san francisco, ca"
+      "san francisco"
     ],
     "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent"
   },
@@ -6186,7 +6186,7 @@
     "year": "2014",
     "birthCity": "ikata",
     "affiliationCities": [
-      "santa barbara, ca"
+      "santa barbara"
     ],
     "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources"
   },
@@ -6197,7 +6197,7 @@
     "year": "1989",
     "birthCity": "montreal",
     "affiliationCities": [
-      "new haven, ct"
+      "new haven"
     ],
     "motivation": "for their discovery of catalytic properties of RNA"
   },
@@ -6316,7 +6316,7 @@
     "fullName": "Sir Harold Kroto",
     "category": "Chemistry",
     "year": "1996",
-    "birthCity": "wisbech, cambridgeshire",
+    "birthCity": "wisbech",
     "affiliationCities": [
       "brighton"
     ],
@@ -6351,7 +6351,7 @@
     "year": "2016",
     "birthCity": "edinburgh",
     "affiliationCities": [
-      "evanston, il"
+      "evanston"
     ],
     "motivation": "for the design and synthesis of molecular machines"
   },
@@ -6449,7 +6449,7 @@
     "fullName": "Sir Robert Robinson",
     "category": "Chemistry",
     "year": "1947",
-    "birthCity": "rufford, near chesterfield",
+    "birthCity": "rufford",
     "affiliationCities": [
       "oxford"
     ],
@@ -6471,9 +6471,9 @@
     "fullName": "Stanford Moore",
     "category": "Chemistry",
     "year": "1972",
-    "birthCity": "chicago, il",
+    "birthCity": "chicago",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their contribution to the understanding of the connection between chemical structure and catalytic activity of the active centre of the ribonuclease molecule"
   },
@@ -6482,9 +6482,9 @@
     "fullName": "Stanley B. Prusiner",
     "category": "Physiology or Medicine",
     "year": "1997",
-    "birthCity": "des moines, ia",
+    "birthCity": "des moines",
     "affiliationCities": [
-      "san francisco, ca"
+      "san francisco"
     ],
     "motivation": "for his discovery of Prions - a new biological principle of infection"
   },
@@ -6493,9 +6493,9 @@
     "fullName": "Stanley Cohen",
     "category": "Physiology or Medicine",
     "year": "1986",
-    "birthCity": "brooklyn, ny",
+    "birthCity": "brooklyn",
     "affiliationCities": [
-      "nashville, tn"
+      "nashville"
     ],
     "motivation": "for their discoveries of growth factors"
   },
@@ -6506,7 +6506,7 @@
     "year": "2014",
     "birthCity": "arad",
     "affiliationCities": [
-      "göttingen",
+      "gottingen",
       "heidelberg"
     ],
     "motivation": "for the development of super-resolved fluorescence microscopy"
@@ -6516,9 +6516,9 @@
     "fullName": "Steven Chu",
     "category": "Physics",
     "year": "1997",
-    "birthCity": "st. louis, mo",
+    "birthCity": "saint louis",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for development of methods to cool and trap atoms with laser light"
   },
@@ -6527,9 +6527,9 @@
     "fullName": "Steven Weinberg",
     "category": "Physics",
     "year": "1979",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current"
   },
@@ -6540,7 +6540,7 @@
     "year": "1983",
     "birthCity": "lahore",
     "affiliationCities": [
-      "chicago, il"
+      "chicago"
     ],
     "motivation": "for his theoretical studies of the physical processes of importance to the structure and evolution of the stars"
   },
@@ -6573,7 +6573,7 @@
     "year": "1987",
     "birthCity": "nagoya",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for his discovery of the genetic principle for generation of antibody diversity"
   },
@@ -6608,7 +6608,7 @@
     "year": "2002",
     "birthCity": "germiston",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death"
   },
@@ -6617,9 +6617,9 @@
     "fullName": "Syukuro Manabe",
     "category": "Physics",
     "year": "2021",
-    "birthCity": "shingu, ehime",
+    "birthCity": "shingu",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming"
   },
@@ -6661,7 +6661,7 @@
     "fullName": "The Svedberg",
     "category": "Chemistry",
     "year": "1926",
-    "birthCity": "fleräng",
+    "birthCity": "flerang",
     "affiliationCities": [
       "uppsala"
     ],
@@ -6695,9 +6695,9 @@
     "fullName": "Theodore W. Richards",
     "category": "Chemistry",
     "year": "1914",
-    "birthCity": "germantown, pa",
+    "birthCity": "germantown",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "in recognition of his accurate determinations of the atomic weight of a large number of chemical elements"
   },
@@ -6706,9 +6706,9 @@
     "fullName": "Thomas A. Steitz",
     "category": "Chemistry",
     "year": "2009",
-    "birthCity": "milwaukee, wi",
+    "birthCity": "milwaukee",
     "affiliationCities": [
-      "new haven, ct"
+      "new haven"
     ],
     "motivation": "for studies of the structure and function of the ribosome"
   },
@@ -6717,9 +6717,9 @@
     "fullName": "Thomas C. Südhof",
     "category": "Physiology or Medicine",
     "year": "2013",
-    "birthCity": "göttingen",
+    "birthCity": "gottingen",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
   },
@@ -6728,9 +6728,9 @@
     "fullName": "Thomas H. Morgan",
     "category": "Physiology or Medicine",
     "year": "1933",
-    "birthCity": "lexington, ky",
+    "birthCity": "lexington",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for his discoveries concerning the role played by the chromosome in heredity"
   },
@@ -6739,9 +6739,9 @@
     "fullName": "Thomas H. Weller",
     "category": "Physiology or Medicine",
     "year": "1954",
-    "birthCity": "ann arbor, mi",
+    "birthCity": "ann arbor",
     "affiliationCities": [
-      "boston, ma"
+      "boston"
     ],
     "motivation": "for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue"
   },
@@ -6750,9 +6750,9 @@
     "fullName": "Thomas R. Cech",
     "category": "Chemistry",
     "year": "1989",
-    "birthCity": "chicago, il",
+    "birthCity": "chicago",
     "affiliationCities": [
-      "boulder, co"
+      "boulder"
     ],
     "motivation": "for their discovery of catalytic properties of RNA"
   },
@@ -6786,7 +6786,7 @@
     "year": "1981",
     "birthCity": "uppsala",
     "affiliationCities": [
-      "boston, ma"
+      "boston"
     ],
     "motivation": "for their discoveries concerning information processing in the visual system"
   },
@@ -6809,7 +6809,7 @@
     "year": "1957",
     "birthCity": "shanghai",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles"
   },
@@ -6840,9 +6840,9 @@
     "fullName": "Val Fitch",
     "category": "Physics",
     "year": "1980",
-    "birthCity": "merriman, ne",
+    "birthCity": "merriman",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons"
   },
@@ -6851,7 +6851,7 @@
     "fullName": "Venkatraman Ramakrishnan",
     "category": "Chemistry",
     "year": "2009",
-    "birthCity": "chidambaram, tamil nadu",
+    "birthCity": "chidambaram",
     "affiliationCities": [
       "cambridge"
     ],
@@ -6862,9 +6862,9 @@
     "fullName": "Victor Ambros",
     "category": "Physiology or Medicine",
     "year": "2024",
-    "birthCity": "hanover, nh",
+    "birthCity": "hanover",
     "affiliationCities": [
-      "worcester, ma"
+      "worcester"
     ],
     "motivation": "for the discovery of microRNA and its role in post-transcriptional gene regulation"
   },
@@ -6895,9 +6895,9 @@
     "fullName": "Vincent du Vigneaud",
     "category": "Chemistry",
     "year": "1955",
-    "birthCity": "chicago, il",
+    "birthCity": "chicago",
     "affiliationCities": [
-      "ithaca, ny"
+      "ithaca"
     ],
     "motivation": "for his work on biochemically important sulphur compounds, especially for the first synthesis of a polypeptide hormone"
   },
@@ -6928,9 +6928,9 @@
     "fullName": "Walter Gilbert",
     "category": "Chemistry",
     "year": "1980",
-    "birthCity": "boston, ma",
+    "birthCity": "boston",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for their contributions concerning the determination of base sequences in nucleic acids"
   },
@@ -6941,7 +6941,7 @@
     "year": "1956",
     "birthCity": "amoy",
     "affiliationCities": [
-      "murray hill, nj"
+      "murray hill"
     ],
     "motivation": "for their researches on semiconductors and their discovery of the transistor effect"
   },
@@ -6963,7 +6963,7 @@
     "year": "1998",
     "birthCity": "vienna",
     "affiliationCities": [
-      "santa barbara, ca"
+      "santa barbara"
     ],
     "motivation": "for his development of the density-functional theory"
   },
@@ -6995,9 +6995,9 @@
     "fullName": "Wendell M. Stanley",
     "category": "Chemistry",
     "year": "1946",
-    "birthCity": "ridgeville, in",
+    "birthCity": "ridgeville",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for their preparation of enzymes and virus proteins in a pure form"
   },
@@ -7006,7 +7006,7 @@
     "fullName": "Werner Arber",
     "category": "Physiology or Medicine",
     "year": "1978",
-    "birthCity": "gränichen",
+    "birthCity": "granichen",
     "affiliationCities": [
       "basel"
     ],
@@ -7028,7 +7028,7 @@
     "fullName": "Werner Heisenberg",
     "category": "Physics",
     "year": "1932",
-    "birthCity": "würzburg",
+    "birthCity": "wurzburg",
     "affiliationCities": [
       "leipzig"
     ],
@@ -7063,7 +7063,7 @@
     "year": "1911",
     "birthCity": "gaffken",
     "affiliationCities": [
-      "würzburg"
+      "wurzburg"
     ],
     "motivation": "for his discoveries regarding the laws governing the radiation of heat"
   },
@@ -7072,9 +7072,9 @@
     "fullName": "Willard F. Libby",
     "category": "Chemistry",
     "year": "1960",
-    "birthCity": "grand valley, co",
+    "birthCity": "grand valley",
     "affiliationCities": [
-      "los angeles, ca"
+      "los angeles"
     ],
     "motivation": "for his method to use carbon-14 for age determination in archaeology, geology, geophysics, and other branches of science"
   },
@@ -7083,9 +7083,9 @@
     "fullName": "Willard S. Boyle",
     "category": "Physics",
     "year": "2009",
-    "birthCity": "amherst, ns",
+    "birthCity": "amherst",
     "affiliationCities": [
-      "murray hill, nj"
+      "murray hill"
     ],
     "motivation": "for the invention of an imaging semiconductor circuit - the CCD sensor"
   },
@@ -7105,9 +7105,9 @@
     "fullName": "William A. Fowler",
     "category": "Physics",
     "year": "1983",
-    "birthCity": "pittsburgh, pa",
+    "birthCity": "pittsburgh",
     "affiliationCities": [
-      "pasadena, ca"
+      "pasadena"
     ],
     "motivation": "for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe"
   },
@@ -7118,7 +7118,7 @@
     "year": "1956",
     "birthCity": "london",
     "affiliationCities": [
-      "mountain view, ca"
+      "mountain view"
     ],
     "motivation": "for their researches on semiconductors and their discovery of the transistor effect"
   },
@@ -7140,7 +7140,7 @@
     "year": "2015",
     "birthCity": "ramelton",
     "affiliationCities": [
-      "madison, nj"
+      "madison"
     ],
     "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites"
   },
@@ -7149,9 +7149,9 @@
     "fullName": "William D. Phillips",
     "category": "Physics",
     "year": "1997",
-    "birthCity": "wilkes-barre, pa",
+    "birthCity": "wilkes-barre",
     "affiliationCities": [
-      "gaithersburg, md"
+      "gaithersburg"
     ],
     "motivation": "for development of methods to cool and trap atoms with laser light"
   },
@@ -7160,9 +7160,9 @@
     "fullName": "William E. Moerner",
     "category": "Chemistry",
     "year": "2014",
-    "birthCity": "pleasanton, ca",
+    "birthCity": "pleasanton",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for the development of super-resolved fluorescence microscopy"
   },
@@ -7173,7 +7173,7 @@
     "year": "1949",
     "birthCity": "niagara falls",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for his contributions in the field of chemical thermodynamics, particularly concerning the behaviour of substances at extremely low temperatures"
   },
@@ -7182,12 +7182,12 @@
     "fullName": "William G. Kaelin Jr",
     "category": "Physiology or Medicine",
     "year": "2019",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "boston, ma",
-      "chevy chase, md",
-      "boston, ma",
-      "boston, ma"
+      "boston",
+      "chevy chase",
+      "boston",
+      "boston"
     ],
     "motivation": "for their discoveries of how cells sense and adapt to oxygen availability"
   },
@@ -7196,9 +7196,9 @@
     "fullName": "William H. Stein",
     "category": "Chemistry",
     "year": "1972",
-    "birthCity": "new york, ny",
+    "birthCity": "new york",
     "affiliationCities": [
-      "new york, ny"
+      "new york"
     ],
     "motivation": "for their contribution to the understanding of the connection between chemical structure and catalytic activity of the active centre of the ribonuclease molecule"
   },
@@ -7207,7 +7207,7 @@
     "fullName": "William Knowles",
     "category": "Chemistry",
     "year": "2001",
-    "birthCity": "taunton, ma",
+    "birthCity": "taunton",
     "affiliationCities": [],
     "motivation": "for their work on chirally catalysed hydrogenation reactions"
   },
@@ -7216,9 +7216,9 @@
     "fullName": "William Lipscomb",
     "category": "Chemistry",
     "year": "1976",
-    "birthCity": "cleveland, oh",
+    "birthCity": "cleveland",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for his studies on the structure of boranes illuminating problems of chemical bonding"
   },
@@ -7227,10 +7227,10 @@
     "fullName": "William P. Murphy",
     "category": "Physiology or Medicine",
     "year": "1934",
-    "birthCity": "stoughton, wi",
+    "birthCity": "stoughton",
     "affiliationCities": [
-      "cambridge, ma",
-      "boston, ma"
+      "cambridge",
+      "boston"
     ],
     "motivation": "for their discoveries concerning liver therapy in cases of anaemia"
   },
@@ -7239,9 +7239,9 @@
     "fullName": "Willis E. Lamb",
     "category": "Physics",
     "year": "1955",
-    "birthCity": "los angeles, ca",
+    "birthCity": "los angeles",
     "affiliationCities": [
-      "stanford, ca"
+      "stanford"
     ],
     "motivation": "for his discoveries concerning the fine structure of the hydrogen spectrum"
   },
@@ -7252,7 +7252,7 @@
     "year": "2001",
     "birthCity": "heidelberg",
     "affiliationCities": [
-      "cambridge, ma"
+      "cambridge"
     ],
     "motivation": "for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates"
   },
@@ -7274,7 +7274,7 @@
     "year": "1945",
     "birthCity": "vienna",
     "affiliationCities": [
-      "princeton, nj"
+      "princeton"
     ],
     "motivation": "for the discovery of the Exclusion Principle, also called the Pauli Principle"
   },
@@ -7285,7 +7285,7 @@
     "year": "2008",
     "birthCity": "tokyo",
     "affiliationCities": [
-      "chicago, il"
+      "chicago"
     ],
     "motivation": "for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics"
   },
@@ -7307,7 +7307,7 @@
     "year": "1986",
     "birthCity": "hsinchu",
     "affiliationCities": [
-      "berkeley, ca"
+      "berkeley"
     ],
     "motivation": "for their contributions concerning the dynamics of chemical elementary processes"
   },
@@ -7327,7 +7327,7 @@
     "fullName": "Zhores Alferov",
     "category": "Physics",
     "year": "2000",
-    "birthCity": "vitebsk, belorussia",
+    "birthCity": "vitebsk",
     "affiliationCities": [
       "st. petersburg"
     ],
