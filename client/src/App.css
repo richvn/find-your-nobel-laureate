@@ -1,0 +1,178 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: flex-start;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  margin-bottom: 0.5rem;
+}
+
+.search-box input {
+  width: 100%;
+  max-width: 600px;
+  padding: 1rem 1.5rem;
+  font-size: 1.2rem;
+  border-radius: 8px;
+  border: 2px solid transparent;
+  background-color: #333;
+  color: white;
+  transition: border-color 0.25s;
+}
+
+.search-box input:focus {
+  outline: none;
+  border-color: #646cff;
+}
+
+.results-summary {
+  background-color: #1a1a1a;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border-left: 4px solid #646cff;
+  font-size: 1.1rem;
+}
+
+.laureate-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.laureate-card {
+  background-color: #1a1a1a;
+  padding: 1.5rem;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  transition: transform 0.2s;
+}
+
+.laureate-card:hover {
+  transform: translateY(-4px);
+}
+
+.laureate-card h3 {
+  margin: 0;
+  font-size: 1.3rem;
+  color: #fff;
+}
+
+.meta {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.9rem;
+  color: #aaa;
+}
+
+.category {
+  font-weight: bold;
+  color: #646cff;
+}
+
+.motivation {
+  font-style: italic;
+  font-size: 0.95rem;
+  color: #ccc;
+  margin: 0;
+  flex-grow: 1;
+}
+
+.connection {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.tag {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.tag.birth {
+  background-color: #2e7d32;
+  color: #e8f5e9;
+}
+
+.tag.affiliation {
+  background-color: #1565c0;
+  color: #e3f2fd;
+}
+
+.no-results {
+  text-align: center;
+  color: #888;
+  margin-top: 3rem;
+}
+
+footer {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid #333;
+  font-size: 0.8rem;
+  color: #666;
+  text-align: center;
+}
+
+footer a {
+  color: #646cff;
+  text-decoration: none;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  .search-box input {
+    background-color: #f9f9f9;
+    color: #213547;
+    border-color: #ddd;
+  }
+  .results-summary, .laureate-card {
+    background-color: #f1f1f1;
+  }
+  .laureate-card h3 { color: #213547; }
+  .motivation { color: #444; }
+  .meta { color: #666; }
+}
