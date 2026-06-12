@@ -42,7 +42,7 @@ function App() {
   const normalizedQuery = useMemo(() => normalizeCity(query), [query]);
 
   const results = useMemo(() => {
-    if (!normalizedQuery || normalizedQuery.length < 2) return { born: [], affiliated: [], total: 0 };
+    if (!normalizedQuery || normalizedQuery.length < 2) return { born: [], affiliated: [], totalCount: 0, displayCity: query };
 
     const born = laureates.filter(l => l.birthCity && normalizeCity(l.birthCity) === normalizedQuery);
     const affiliated = laureates.filter(l => 
